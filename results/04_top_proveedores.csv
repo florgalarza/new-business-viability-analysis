@@ -1,0 +1,865 @@
+"product_category_name","seller_id","seller_city","seller_state","total_ordenes","precio_promedio","costo_envio_promedio","costo_total_promedio"
+"",c826c40d7b19f62a09e2d7c5e7295ee2,guarulhos,SP,353,122.4,14.96,137.36
+"",e5a3438891c0bfdb9394643f95273d8e,limeira,SP,85,29.39,13.34,42.73
+"","1ca7077d890b907f89be8c954a02686a",santana de parnaiba,SP,73,132.22,11.62,143.84
+"","46dc3b2cc0980fb8ec44634e21d2718e",rio de janeiro,RJ,40,244.26,24.58,268.83
+"",fc906263ca5083d09dce42fe02247800,belo horizonte,MG,29,39.04,15.43,54.47
+"","0c8380b62e38e8a1e6adbeba7eb9688c",tres coracoes,MG,27,65.29,19.33,84.62
+agro_industria_e_comercio,e59aa562b9f8076dd550fcddf0e73491,curitiba,PR,70,375.88,26.54,402.43
+alimentos,"16090f2ca825584b5a147ab24aa30c86",atibaia,SP,112,28.0,12.57,40.57
+alimentos,cbd996ad3c1b7dc71fd0e5f5df9087e2,sao jose do rio preto,SP,86,50.25,15.05,65.3
+alimentos,d13e50eaa47b4cbe9eb81465865d8cfc,santo andre,SP,56,84.56,11.99,96.56
+alimentos,"8d79c8a04e42d722a75097ce5cbcf2ef",caucaia,CE,27,99.2,27.05,126.26
+alimentos,e9779976487b77c6d4ac45f75ec7afe9,praia grande,SP,25,82.28,16.79,99.07
+alimentos_bebidas,"282f23a9769b2690c5dda22e316f9941",belo horizonte,MG,57,43.67,17.51,61.19
+alimentos_bebidas,a3dd39f583bc80bd8c5901c95878921e,salvador,BA,34,124.54,21.74,146.27
+artes,c31eff8334d6b3047ed34bebd4d62c36,salto,SP,106,100.97,19.14,120.11
+artigos_de_natal,"113e3a788b935f48aad63e1c41dac1bd",aparecida,SP,39,17.65,14.3,31.96
+artigos_de_natal,d93919c944be9cff128f6c9cb899eacb,mombuca,SP,32,78.03,29.34,107.36
+audio,"7040e82f899a04d1b434b795a43b4617",sao paulo,SP,94,17.31,12.57,29.89
+audio,"4869f7a5dfa277a7dca6462dcf3b52b2",guariba,SP,56,161.27,17.4,178.67
+audio,"7d13fca15225358621be4086e1eb0964",ribeirao preto,SP,47,394.93,19.71,414.64
+audio,b2ba3715d723d245138f291a6fe42594,sao paulo,SP,31,112.35,13.29,125.64
+audio,"6560211a19b47992c3666cc44a7e94c0",sao paulo,SP,30,84.88,14.0,98.87
+automotivo,"8581055ce74af1daba164fdbd55a40de",guarulhos,SP,387,149.25,22.2,171.46
+automotivo,"16090f2ca825584b5a147ab24aa30c86",atibaia,SP,252,51.66,13.55,65.21
+automotivo,"7142540dd4c91e2237acb7e911c4eba2",penapolis,SP,227,123.09,21.78,144.87
+automotivo,c003204e1ab016dfa150abc119207b24,cajamar,SP,153,123.11,21.05,144.16
+automotivo,b4ffb71f0cb1b1c3d63fad021ecf93e1,sao paulo,SP,144,40.34,15.27,55.61
+automotivo,"6a8b085f816a1f75f92dbac6eb545f8f",bebedouro,SP,127,44.58,16.13,60.72
+automotivo,"5d0363b33554b373851fc1622e4d5f3c",atibaia,SP,89,67.09,23.63,90.72
+automotivo,c8b0e2b0a7095e5d8219575d5e7e1181,itaquaquecetuba,SP,84,143.18,17.5,160.67
+automotivo,"080199a181c46c657dc5aa235411be3b",osasco,SP,79,174.75,12.54,187.29
+automotivo,"712e6ed8aa4aa1fa65dab41fed5737e4",videira,SC,79,457.64,79.19,536.83
+automotivo,"34056b8b55c1775a22af2331670a799c",penapolis,SP,78,82.76,22.75,105.51
+automotivo,"116ccb1a1604bc88e4d234a8c23f33de",sao bernardo do campo,SP,50,22.79,12.2,34.99
+automotivo,"25cf099de44674fde97473224f9d59ab",cotia,SP,50,33.09,14.1,47.19
+automotivo,"05d2173d43ea568aa0540eba70d2ca76",alfenas,MG,46,90.18,26.76,116.95
+automotivo,"1d4587203296c8f4ad134dc286fa6db0",sao paulo,SP,42,54.03,16.38,70.41
+automotivo,"3db66a856d18a9cba7c9241fc5221c50",ponte nova,MG,42,133.16,24.7,157.85
+automotivo,"3f995f07c49d0d55a99d5c54957f7d81",itapecerica da serra,SP,41,92.63,15.57,108.2
+automotivo,"6338ea67c41078a46ad99cc009654956",farroupilha,RS,37,51.96,21.01,72.96
+automotivo,cee48807215b30a12ca2ca10ffb5f250,guaruja,SP,37,183.91,23.22,207.12
+automotivo,"31561f325664a8a7aba4c8d0c3a9b3db",sao paulo,SP,34,72.77,16.86,89.62
+automotivo,e96498ed8daaa3e9c23f7a62da76591c,sao paulo,SP,34,282.91,20.97,303.89
+automotivo,"7ddcbb64b5bc1ef36ca8c151f6ec77df",sao paulo,SP,33,33.93,14.22,48.15
+automotivo,"4e922959ae960d389249c378d1c939f5",jacarei,SP,29,88.52,14.19,102.71
+automotivo,"817245bcc3badd82bbd222e0366951a6",bauru,SP,29,124.01,16.06,140.07
+automotivo,d97df38225e5abadaff1e72cb72b823c,sao caetano do sul,SP,29,63.66,17.82,81.48
+automotivo,f12ff17ad8bbf01ec5c33b17e506649b,sao paulo,SP,29,215.21,22.47,237.68
+automotivo,e5e33c0d8e7e002f398f5dc4cbbb338f,bauru,SP,26,240.55,27.63,268.18
+automotivo,c9c7905cffc4ef9ff9f113554423e671,itapecerica da serra,SP,25,88.93,13.98,102.91
+automotivo,a938325a4b357fd23a6a4d5bb126408e,nilopolis,RJ,24,129.24,22.43,151.67
+automotivo,ea8482cd71df3c1969d7b9473ff13abc,sao paulo,SP,24,25.63,11.44,37.07
+automotivo,"2b1a40c1daabc6ca280c4b815c101841",divinopolis,MG,23,363.79,54.35,418.14
+automotivo,"39d54ff918774174706fb065d7f9dc07",sao paulo,SP,23,63.74,14.54,78.28
+automotivo,bd697db56ff8e7c9cd1abeb7f72029b2,sao paulo,SP,22,139.54,15.7,155.24
+automotivo,d2374cbcbb3ca4ab1086534108cc3ab7,ibitinga,SP,22,28.54,18.4,46.93
+automotivo,d624126b9206f595fb3fbb6ba03b28a8,curitiba,PR,22,237.36,20.31,257.67
+bebes,"855668e0971d4dfd7bef1b6a4133b41b",itatiba,SP,285,90.14,23.61,113.74
+bebes,"4b9750c8ad28220fe6702d4ecb7c898f",limeira,SP,207,73.09,15.37,88.46
+bebes,"5dceca129747e92ff8ef7a997dc4f8ca",santa barbara d´oeste,SP,105,709.62,33.88,743.5
+bebes,aafe36600ce604f205b86b5084d3d767,sao jose,SC,102,66.66,18.28,84.94
+bebes,"7a67c85e85bb2ce8582c35f2203ad736",sao paulo,SP,96,62.08,17.4,79.48
+bebes,"7ea5bfa6c340f58f8e71fc1f0412b0d6",belo horizonte,MG,94,112.48,16.2,128.68
+bebes,"1d8dbc4f32378d715c717c1c1fc57bae",arapongas,PR,92,115.47,21.48,136.95
+bebes,"1f9ab4708f3056ede07124aad39a2554",tupa,SP,78,172.19,30.9,203.08
+bebes,d673a59aac7a70d8b01e6902bf090a11,ibitinga,SP,77,45.9,19.05,64.95
+bebes,d98eec89afa3380e14463da2aabaea72,porto alegre,RS,59,34.99,16.61,51.6
+bebes,"05f51e13da97139648b8125c31e5f51b",belo horizonte,MG,57,218.64,32.33,250.97
+bebes,adbc26658d6c7b4b6219f9d934598091,curitiba,PR,56,122.55,20.86,143.41
+bebes,c6bda72e4dbf5c5866b13cb1810c6d03,sao paulo,SP,48,193.45,17.14,210.59
+bebes,e26901d5ab434ce92fd9b5c256820a4e,maua,SP,47,79.07,11.8,90.87
+bebes,ad781527c93d00d89a11eecd9dcad7c1,sao jose do rio preto,SP,44,156.81,54.08,210.89
+bebes,bbad7e518d7af88a0897397ffdca1979,sao paulo,SP,44,34.25,14.45,48.7
+bebes,"9e6229250fedbe05838fef417b74e7fb",mirandopolis,SP,40,155.61,24.47,180.08
+bebes,fa40cc5b934574b62717c68f3d678b6d,sao paulo,SP,39,52.47,11.38,63.85
+bebes,"46dc3b2cc0980fb8ec44634e21d2718e",rio de janeiro,RJ,37,346.74,32.88,379.63
+bebes,f45122a9ab94eb4f3f8953578bc0c560,piracicaba,SP,37,59.99,15.59,75.58
+bebes,bf3c6d2a28b2b5501e6c15448982dcc9,sao paulo,SP,34,97.57,16.74,114.31
+bebes,e8b4225284fbb02d16f200513f1f395d,novo horizonte,SP,31,186.73,41.86,228.58
+bebes,f680f85bee2d253556ac91be391d2c82,carapicuiba,SP,31,39.56,13.12,52.68
+bebes,"9d5a9018aee56acb367ba9c3f05d1d6a",aparecida de goiania,GO,30,137.16,20.11,157.27
+bebes,"271c58a1d139c45eaf3316107c6d3a3b",sao paulo,SP,29,134.4,23.14,157.54
+bebes,"99002261c568a84cce14d43fcffb43ea",cuiaba,MT,29,116.14,30.73,146.87
+bebes,a420f60ff1aa9acc80d0e42959f2b313,sao paulo,SP,29,75.92,17.93,93.85
+bebes,"5a93f3ab0ef4c84ed5e1b5dbf23978bc",monteiro lobato,SP,28,74.66,18.07,92.73
+bebes,"1f50f920176fa81dab994f9023523100",sao jose do rio preto,SP,27,84.14,31.87,116.01
+bebes,"977f9f63dd360c2a32ece2f93ad6d306",tabatinga,SP,24,114.35,37.4,151.75
+bebes,"9d4db00d65d7760644ac0c14edb5fd86",sorocaba,SP,23,106.21,11.86,118.07
+bebes,a3a38f4affed601eb87a97788c949667,joinville,SC,23,84.49,21.54,106.03
+bebes,"503c1de08ae81a2d86f17951b204db55",sao paulo,SP,22,223.04,18.86,241.9
+bebes,"5a8e7d5003a1f221f9e1d6e411de7c23",campinas,SP,22,55.99,11.84,67.83
+bebes,"827f8f69dfa529c561901c4f2e0f332f",curitiba,PR,21,31.38,14.25,45.62
+bebes,d9bd94811c3338dceb4181f3dbc0c73e,sao paulo,SP,21,80.39,12.13,92.52
+bebidas,e9779976487b77c6d4ac45f75ec7afe9,praia grande,SP,170,42.76,13.19,55.95
+bebidas,"9b013e03b2ab786505a1d3b5c0756754",vicente de carvalho,SP,50,39.75,11.46,51.22
+beleza_saude,cc419e0650a3c5ba77189a1882b7556a,santo andre,SP,1056,58.59,14.94,73.53
+beleza_saude,"06a2c3af7b3aee5d69171b0e14f0ee87",sao luis,MA,392,89.9,29.98,119.88
+beleza_saude,"620c87c171fb2a6dd6e8bb4dec959fc6",petropolis,RJ,372,101.51,18.36,119.87
+beleza_saude,c70c1b0d8ca86052f45a432a38b73958,hortolandia,SP,261,108.1,11.65,119.75
+beleza_saude,da8622b14eb17ae2831f4ac5b9dab84a,piracicaba,SP,242,28.96,10.85,39.81
+beleza_saude,f7ba60f8c3f99e7ee4042fdef03b70c4,sao bernardo do campo,SP,192,327.45,19.06,346.51
+beleza_saude,ccc4bbb5f32a6ab2b7066a4130f114e3,curitiba,PR,182,387.55,27.52,415.07
+beleza_saude,edb1ef5e36e0c8cd84eb3c9b003e486d,teresopolis,RJ,166,453.05,22.31,475.37
+beleza_saude,a416b6a846a11724393025641d4edd5e,sao paulo,SP,158,134.0,16.57,150.57
+beleza_saude,e9779976487b77c6d4ac45f75ec7afe9,praia grande,SP,153,56.53,13.44,69.96
+beleza_saude,"7e1fb0a3ebfb01ffb3a7dae98bf3238d",franca,SP,138,162.04,17.41,179.45
+beleza_saude,"01fdefa7697d26ad920e9e0346d4bd1b",londrina,PR,129,113.9,21.13,135.04
+beleza_saude,"431af27f296bc6519d890aa5a05fdb11",ribeirao preto,SP,117,104.88,17.13,122.01
+beleza_saude,"955fee9216a65b617aa5c0531780ce60",sao paulo,SP,113,100.67,22.26,122.93
+beleza_saude,f4aba7c0bca51484c30ab7bdc34bcdd1,sao paulo,SP,105,24.24,13.3,37.54
+beleza_saude,"2e1c9f22be269ef4643f826c9e650a52",sao paulo,SP,100,70.73,13.82,84.54
+beleza_saude,"59fb871bf6f4522a87ba567b42dafecf",sao paulo,SP,95,175.01,16.05,191.06
+beleza_saude,"5c243662ce92d84573bfaff24c3e3700",sao paulo,SP,95,327.62,17.92,345.54
+beleza_saude,"04308b1ee57b6625f47df1d56f00eedf",bombinhas,SC,94,639.69,32.49,672.18
+beleza_saude,"900ba814c251a692506d7834c1218441",salto,SP,88,330.68,26.91,357.59
+beleza_saude,ebd2d60905fb58271facef5596b620d3,lencois paulista,SP,84,90.25,19.7,109.94
+beleza_saude,f46490624488d3ff7ce78613913a7711,guarulhos,SP,83,63.77,19.21,82.97
+beleza_saude,f3b80352b986ab4d1057a4b724be19d0,brasilia,DF,82,82.59,20.44,103.03
+beleza_saude,f84fa566034f5e8e880a07ec624c56af,indaiatuba,SP,82,49.49,12.0,61.49
+beleza_saude,"0df3984f9dfb3d49ac6366acbd3bbb85",betim,MG,81,116.39,16.97,133.36
+beleza_saude,f84a00e60c73a49e7e851c9bdca3a5bb,rio de janeiro,RJ,80,57.51,17.34,74.85
+beleza_saude,"42b729f859728f5079499127a9c2ef37",sao paulo,SP,77,28.76,9.95,38.71
+beleza_saude,cbd996ad3c1b7dc71fd0e5f5df9087e2,sao jose do rio preto,SP,72,34.59,13.97,48.56
+beleza_saude,"516e7738bd8f735ac19a010ee5450d8d",rio de janeiro,RJ,68,85.48,17.54,103.03
+beleza_saude,ececbfcff9804a2d6b40f589df8eef2b,franca,SP,65,66.43,18.03,84.45
+beleza_saude,"8b28d096634035667e8263d57ba3368c",sao jose dos campos,SP,63,51.2,16.4,67.6
+beleza_saude,"94144541854e298c2d976cb893b81343",viamao,RS,63,240.93,18.93,259.85
+beleza_saude,"1eade46fba20122dc4aefb379f8c636b",sao paulo,SP,58,48.47,13.84,62.32
+beleza_saude,"17f51e7198701186712e53a39c564617",sao paulo,SP,56,787.2,160.55,947.74
+beleza_saude,"57e632711dec9ec14ca7546769483e7e",navegantes,SC,55,101.1,18.24,119.34
+beleza_saude,beadbee30901a7f61d031b6b686095ad,guarulhos,SP,55,55.16,13.91,69.06
+beleza_saude,"7178f9f4dd81dcef02f62acdf8151e01",videira,SC,54,55.49,21.13,76.62
+beleza_saude,"9b013e03b2ab786505a1d3b5c0756754",vicente de carvalho,SP,54,44.75,12.38,57.13
+beleza_saude,b17b679f4f5ce2e03ce6968c62648246,ribeirao preto,SP,54,68.53,18.84,87.37
+beleza_saude,"2a5b78b41cd05baeac8df54c6606b92c",formiga,MG,49,317.09,18.46,335.55
+beleza_saude,"44073f8b7e41514de3b7815dd0237f4f",brasilia,DF,49,151.22,20.5,171.73
+beleza_saude,db2956745b3a8e9f3785c99f34b5d25e,sao sebastiao,SP,47,179.15,20.32,199.46
+beleza_saude,"11bfa66332777660bd0640ee84d47006",ribeirao preto,SP,45,51.57,18.37,69.95
+beleza_saude,abcd2cb37d46c2c8fb1bf071c859fc5b,cuiaba,MT,45,93.85,25.39,119.24
+beleza_saude,bccf933e006e9b94a6184af782963e77,assis,SP,45,90.49,19.23,109.72
+beleza_saude,"709e16e2b25c7474d980076c6bfc4806",birigui,SP,44,69.66,15.25,84.91
+beleza_saude,"70a12e78e608ac31179aea7f8422044b",jacarei,SP,44,103.55,22.82,126.37
+beleza_saude,c9aafcd0621b2207c10e32c649cada4d,sao paulo,SP,44,57.64,17.09,74.73
+beleza_saude,b18dc380845b24038cfc48006478f099,diadema,SP,43,150.25,16.59,166.84
+beleza_saude,abe42c5d03695b4257b5c6cbf4e6784e,rio de janeiro,RJ,41,321.66,20.44,342.1
+beleza_saude,ad420dd0c4f92f8af951ac24b86d0cf5,fronteira,MG,41,98.34,19.86,118.2
+beleza_saude,e5a38146df062edaf55c38afa99e42dc,sao paulo,SP,41,182.67,17.72,200.39
+beleza_saude,"4371b634e0efc0e22b09b52907d9d469",sao paulo,SP,38,36.25,11.65,47.9
+beleza_saude,e24fc9fcd865784fb25705606fe3dfe7,braganca paulista,SP,38,230.92,20.19,251.11
+beleza_saude,"6df688df543f90e9b38f4319e75a9d88",belo horizonte,MG,36,37.53,13.84,51.38
+beleza_saude,b56906f7fd1696e043f1bcce164c487b,echapora,SP,36,49.3,20.69,69.99
+beleza_saude,bf84056e679dbe9c69929847a40e338f,sao paulo,SP,35,50.09,11.4,61.49
+beleza_saude,fad44952713764836814be105382aee5,rio de janeiro,RJ,32,160.28,15.87,176.15
+beleza_saude,"36a968b544695394e4e9d7572688598f",santos,SP,31,72.17,14.05,86.22
+beleza_saude,"2a84855fd20af891be03bc5924d2b453",belo horizonte,MG,30,37.32,16.46,53.78
+beleza_saude,"6e386f64c84e482f0b9abf960797ee1b",sao paulo,SP,30,431.28,20.85,452.12
+beleza_saude,"729b2d09b2a0bdab221076327f13d050",mineiros do tiete,SP,30,32.88,15.71,48.59
+beleza_saude,"56642bcb79900e777d68e91915cb4267",sao paulo,SP,29,97.86,15.88,113.74
+beleza_saude,"8b2492b7ff4468839593fafeed55bad9",sao goncalo,RJ,29,81.34,15.03,96.36
+beleza_saude,"4c498c7345e89aebad651544829beca0",carapicuiba,SP,28,67.62,11.84,79.46
+beleza_saude,"6ec1a01e866584bb679eb9b098345919",santos,SP,28,142.79,27.01,169.8
+beleza_saude,a5cba26a62b8b4d0145b68b841e62e7f,campo mourao,PR,28,160.11,20.03,180.14
+beleza_saude,b2ac621f0d0322434d04a12b078b9369,curitiba,PR,28,309.48,26.45,335.94
+beleza_saude,"0ef83d7d83ed97cd2a0049ac8be5f88a",curitiba,PR,27,56.42,15.6,72.01
+beleza_saude,"4e17c65a516f69d023a2ae78b84f28d6",suzano,SP,27,118.32,16.48,134.8
+beleza_saude,"1da3aeb70d7989d1e6d9b0e887f97c23",sao paulo,SP,25,32.48,11.52,43.99
+beleza_saude,"7f7b8245c336066a1f9933c359f11d77",mogi mirim,SP,25,51.11,11.52,62.64
+beleza_saude,"40d54b51e962dbe09cabbcfd33298dee",santo andre,SP,24,275.7,19.89,295.59
+beleza_saude,"5debea795b07621e1f90532e18f96145",apucarana,PR,24,47.34,15.27,62.61
+beleza_saude,b90e891671cffd9557f33a97dc523645,sao jose dos pinhais,PR,24,116.26,16.1,132.36
+beleza_saude,"916c9de0b5ad957346eeeb12f332687e",curitiba,PR,23,195.72,17.63,213.35
+beleza_saude,b83cedfb587e7911540e3f576d6917ce,sao paulo,SP,23,92.29,14.0,106.29
+beleza_saude,"093805f8f2aeb63881444571e1f48f30",osasco,SP,22,45.03,12.74,57.77
+beleza_saude,f8db351d8c4c4c22c6835c19a46f01b0,salto,SP,22,95.31,17.66,112.97
+beleza_saude,fb89df7f89fd1b8f03fa2acca1ba7364,foz do iguacu,PR,22,88.8,18.7,107.5
+beleza_saude,"5f1dc28029d2c244352a68107ec2b542",sao paulo,SP,21,28.08,11.89,39.97
+beleza_saude,"679769a98cfcc6da877c8486ff1c13f3",ipatinga,MG,21,334.71,20.88,355.59
+beleza_saude,"6b15924333bd1a741595fe981ea04822",sao caetano do sul,SP,21,29.25,11.44,40.69
+brinquedos,"46dc3b2cc0980fb8ec44634e21d2718e",rio de janeiro,RJ,358,216.03,18.86,234.9
+brinquedos,fa40cc5b934574b62717c68f3d678b6d,sao paulo,SP,277,46.49,13.6,60.09
+brinquedos,"3d871de0142ce09b7081e2b9d1733cb1",campo limpo paulista,SP,230,51.11,16.0,67.11
+brinquedos,"7aa4334be125fcdd2ba64b3180029f14",laranjal paulista,SP,172,67.97,18.93,86.9
+brinquedos,"850f4f8af5ea87287ac68de36e29107f",sao paulo,SP,114,165.42,15.11,180.52
+brinquedos,a3a38f4affed601eb87a97788c949667,joinville,SC,107,100.52,20.02,120.54
+brinquedos,"725c32fa80c2faacc4fc88450d27314e",sao paulo,SP,86,84.07,14.27,98.34
+brinquedos,de23c3b98a88888289c6f5cc1209054a,sao paulo,SP,85,145.22,14.75,159.96
+brinquedos,a49928bcdf77c55c6d6e05e09a9b4ca5,sao paulo,SP,83,85.83,17.11,102.95
+brinquedos,ac3508719a1d8f5b7614b798f70af136,canoas,RS,83,124.42,30.66,155.08
+brinquedos,"0432ead42b6c8a0bdf68154add917fdf",maua,SP,81,88.34,13.47,101.82
+brinquedos,"25e6ffe976bd75618accfe16cefcbd0d",sao paulo,SP,81,92.7,14.82,107.51
+brinquedos,"7299e27ed73d2ad986de7f7c77d919fa",araguari,MG,80,158.17,21.38,179.55
+brinquedos,"9d4db00d65d7760644ac0c14edb5fd86",sorocaba,SP,66,96.14,16.99,113.13
+brinquedos,"5f2684dab12e59f83bef73ae57724e45",sao paulo,SP,63,127.29,15.81,143.1
+brinquedos,b2ba3715d723d245138f291a6fe42594,sao paulo,SP,59,161.98,22.53,184.51
+brinquedos,f8db351d8c4c4c22c6835c19a46f01b0,salto,SP,51,78.96,22.04,100.99
+brinquedos,"4a3ca9315b744ce9f8e9374361493884",ibitinga,SP,49,59.84,15.6,75.44
+brinquedos,"4c03b9dd4c11ee2cb35c96c49efc9420",campo limpo paulista,SP,48,134.55,17.58,152.13
+brinquedos,"8f119a0aee85c0c8fc534629734e94fd",barueri,SP,48,53.32,13.41,66.73
+brinquedos,d98eec89afa3380e14463da2aabaea72,porto alegre,RS,48,52.75,18.49,71.23
+brinquedos,"406822777a0b9eb5c50e442dd4cd3ec5",tatui,SP,44,76.05,20.34,96.39
+brinquedos,"1da3aeb70d7989d1e6d9b0e887f97c23",sao paulo,SP,41,23.42,14.11,37.53
+brinquedos,bfd27a966d91cfaafdb25d076585f0da,serra negra,SP,36,105.33,22.55,127.88
+brinquedos,dd533b429f380718b70ad9922c294bae,barretos,SP,35,69.29,26.96,96.25
+brinquedos,"5160d23075764e18e07c1f4a87fad743",sao bernardo do campo,SP,34,62.28,12.47,74.75
+brinquedos,"76d64c4aca3a7baf218bf93ef7fa768d",curitiba,PR,32,315.34,79.42,394.76
+brinquedos,adbc26658d6c7b4b6219f9d934598091,curitiba,PR,32,138.2,19.87,158.07
+brinquedos,"0bae85eb84b9fb3bd773911e89288d54",itajai,SP,31,38.29,19.29,57.58
+brinquedos,ff1fb4c404b2efe68b03350a8dc24122,mogi das cruzes,SP,31,134.25,17.01,151.26
+brinquedos,"3c4e0452bff7a2a788179488d3d77032",colombo,PR,30,106.46,16.99,123.45
+brinquedos,bacb1f0ed56ad24198f5810d2b3fe9a5,jacarei,SP,30,161.17,20.16,181.33
+brinquedos,fde0cc9ea29c8ccfc0a2c22256a58c71,curitiba,PR,27,110.37,27.84,138.21
+brinquedos,d9a84e1403de8da0c3aa531d6d108ba6,sao paulo,SP,26,28.44,13.63,42.07
+brinquedos,f00e21b1e91a79653163b7fd8f293ff1,andradas,SP,26,123.25,17.94,141.19
+brinquedos,a673821011d0cec28146ea42f5ab767f,sao paulo,SP,25,86.63,13.58,100.21
+brinquedos,c8b3445d737de6befde0c88ede534a5e,sao paulo,SP,25,109.58,21.12,130.7
+brinquedos,"1caf283236cd69af44cbc09a0a1e7d32",nova iguacu,RJ,24,22.15,16.54,38.69
+brinquedos,"2c9e548be18521d1c43cde1c582c6de8",mogi das cruzes,SP,24,75.78,15.29,91.08
+brinquedos,"48436dade18ac8b2bce089ec2a041202",volta redonda,SP,24,143.01,21.37,164.38
+brinquedos,"3078096983cf766a32a06257648502d1",scao jose do rio pardo,SP,23,97.38,17.6,114.98
+brinquedos,b94cc9f10ddc85e4ba73a6f7974e7101,macae,RJ,23,675.99,28.76,704.75
+brinquedos,"71039d19d4303bf9054d69e9a9236699",sao paulo,SP,22,29.34,12.44,41.78
+brinquedos,"1554a68530182680ad5c8b042c3ab563",monte siao,MG,21,67.28,18.76,86.03
+brinquedos,"42bde9fef835393bb8a8849cb6b7f245",brasilia,DF,21,173.71,19.58,193.29
+cama_mesa_banho,"4a3ca9315b744ce9f8e9374361493884",ibitinga,SP,1459,105.1,17.96,123.06
+cama_mesa_banho,da8622b14eb17ae2831f4ac5b9dab84a,piracicaba,SP,1074,119.27,17.2,136.47
+cama_mesa_banho,d2374cbcbb3ca4ab1086534108cc3ab7,ibitinga,SP,497,33.95,15.04,48.99
+cama_mesa_banho,"1835b56ce799e6a4dc4eddc053f04066",ibitinga,SP,418,59.78,15.69,75.47
+cama_mesa_banho,"1900267e848ceeba8fa32d80c1a5f5a8",ibitinga,SP,405,46.49,15.42,61.91
+cama_mesa_banho,"8160255418d5aaa7dbdc9f4c64ebda44",ibitinga,SP,380,108.9,18.1,127.0
+cama_mesa_banho,"37be5a7c751166fbc5f8ccba4119e043",sao paulo,SP,268,196.94,21.7,218.65
+cama_mesa_banho,"391fc6631aebcf3004804e51b40bcf1e",ibitinga,SP,256,51.36,15.2,66.56
+cama_mesa_banho,cca3071e3e9bb7d12640c9fbe2301306,ibitinga,SP,227,106.36,20.25,126.6
+cama_mesa_banho,dc4a0fc896dc34b0d5bfec8438291c80,ibitinga,SP,214,100.32,18.77,119.09
+cama_mesa_banho,d1c281d3ae149232351cd8c8cc885f0d,ibitinga,SP,209,108.62,21.52,130.14
+cama_mesa_banho,"1c129092bf23f28a5930387c980c0dfc",sao paulo,SP,198,43.29,13.8,57.09
+cama_mesa_banho,"1a3df491d1c4f1589fc2b934ada68bf2",joinville,SC,167,130.91,24.11,155.02
+cama_mesa_banho,"41b39e28db005d9731d9d485a83b4c38",santo andre,SP,153,78.54,16.55,95.09
+cama_mesa_banho,"7ad32824caee82087b3e2e5f33b1bf32",ibitinga,SP,151,122.31,19.27,141.58
+cama_mesa_banho,"004c9cd9d87a3c30c522c48c4fc07416",ibitinga,SP,147,112.92,19.28,132.2
+cama_mesa_banho,cfb1a033743668a192316f3c6d1d2671,votorantim,SP,147,69.58,18.66,88.24
+cama_mesa_banho,"259f7b5e6e482c230e5bfaa670b6bb8f",poa,SP,130,50.74,16.0,66.74
+cama_mesa_banho,a3e9a2c700480d9bb01fba070ba80a0e,ibitinga,SP,127,93.37,20.07,113.45
+cama_mesa_banho,"1e8b33f18b4f7598d87f5cbee2282cc2",sao paulo,SP,123,123.64,19.3,142.94
+cama_mesa_banho,"0c8380b62e38e8a1e6adbeba7eb9688c",tres coracoes,MG,122,77.5,17.97,95.48
+cama_mesa_banho,"640e21a7d01df7614a3b4923e990d40c",ibitinga,SP,116,55.47,17.86,73.32
+cama_mesa_banho,"00ee68308b45bc5e2660cd833c3f81cc",sao paulo,SP,113,122.67,15.01,137.68
+cama_mesa_banho,c33847515fa6305ce6feb1e818569f13,brusque,SC,113,122.01,34.3,156.31
+cama_mesa_banho,"3b15288545f8928d3e65a8f949a28291",ibitinga,SP,101,116.03,20.36,136.39
+cama_mesa_banho,b2479f944e1b90cf8a5de1bbfde284d6,ibitinga,SP,101,36.93,16.42,53.35
+cama_mesa_banho,"33a6f4b1e7cdc205511e76ba1b6e0186",guarulhos,SP,94,83.31,14.99,98.29
+cama_mesa_banho,a673821011d0cec28146ea42f5ab767f,sao paulo,SP,94,95.16,18.83,113.99
+cama_mesa_banho,"609e1a9a6c2539919b8205cf7c4e6ff0",brusque,SC,85,51.28,20.74,72.02
+cama_mesa_banho,"972d0f9cf61b499a4812cf0bfa3ad3c4",brusque,SC,83,91.92,24.45,116.37
+cama_mesa_banho,dd2bdf855a9172734fbc3744021ae9b9,belo horizonte,MG,83,102.83,18.11,120.94
+cama_mesa_banho,"54965bbe3e4f07ae045b90b0b8541f52",foz do iguacu,PR,78,127.46,25.62,153.08
+cama_mesa_banho,"8a432f4e5b471f8da497d7dc517666e2",presidente prudente,SP,77,75.1,18.71,93.81
+cama_mesa_banho,"17ca9b9e9b9ef8fdb529001b49ebb50f",betim,MG,75,61.11,18.52,79.64
+cama_mesa_banho,f7ccf836d21b2fb1de37564105216cc1,ibitinga,SP,68,37.74,15.14,52.88
+cama_mesa_banho,"6fd52c528dcb38be2eea044946b811f8",sao paulo,SP,67,92.18,13.55,105.73
+cama_mesa_banho,"822166ed1e47908f7cfb49946d03c726",tres rios,RJ,66,36.03,17.57,53.61
+cama_mesa_banho,"2528513dd95219a6013d4d05176e391a",osasco,SP,64,75.71,16.86,92.56
+cama_mesa_banho,cce6ab8d1682639fe45ab70234f1665f,curitiba,SP,63,38.22,17.69,55.91
+cama_mesa_banho,"602044f2c16190c2c6e45eb35c2e21cb",ibitinga,SP,50,65.6,16.46,82.06
+cama_mesa_banho,"951e8cef368f09bb3f3d03c00ca4702c",ibitinga,SP,48,56.59,20.74,77.33
+cama_mesa_banho,fdb9095204a334cd8872252ffec6f2db,sao paulo,SP,46,133.7,18.58,152.28
+cama_mesa_banho,b39d7fe263ef469605dbb32608aee0af,ibitinga,SP,44,105.98,21.69,127.67
+cama_mesa_banho,"0176f73cc1195f367f7b32db1e5b3aa8",ibitinga,SP,38,121.36,33.0,154.36
+cama_mesa_banho,"8a32e327fe2c1b3511609d81aaf9f042",sao paulo,SP,32,65.65,14.58,80.23
+cama_mesa_banho,ea67327e24487bdfac5fbfa37ea124df,ibitinga,SP,32,183.83,27.36,211.18
+cama_mesa_banho,e38db885400cd35c71dfd162f2c1dbcf,brasilia,DF,30,64.59,20.96,85.55
+cama_mesa_banho,"7d456afc660226829370f3173d14520c",mogi das cruzes,SP,29,111.83,20.16,131.99
+cama_mesa_banho,d4e12e7884759a14fa0f5f896c791cae,sao paulo,SP,29,43.75,13.74,57.49
+cama_mesa_banho,"2d50d6282f8aa2257819a77bfaa0efe0",ibitinga,SP,27,92.78,20.39,113.17
+cama_mesa_banho,"0885aaf116795758dfeb5f1032487bcd",ferraz de vasconcelos,SP,26,85.11,15.35,100.46
+cama_mesa_banho,"1dc2de47ee26a0a5b12dc14fd6dc0dea",ibitinga,SP,25,61.86,22.86,84.72
+cama_mesa_banho,"3b872fd4747f01cc56206f2934198618",ibitinga,SP,25,100.99,41.35,142.34
+cama_mesa_banho,"318f287a62ab7ac10b703ac37435a231",sao paulo,SP,23,56.51,17.18,73.69
+cama_mesa_banho,"17306570e772e7718c92a562d33f5f1d",bariri,SP,22,249.42,19.6,269.02
+cama_mesa_banho,"4200ddf1967c5e41e48db62bc6d4b5ac",sao bernardo do campo,SP,22,16.95,11.55,28.49
+casa_conforto,"4a3ca9315b744ce9f8e9374361493884",ibitinga,SP,226,101.04,17.6,118.64
+casa_conforto,"2528513dd95219a6013d4d05176e391a",osasco,SP,93,278.68,24.79,303.48
+casa_construcao,"213b25e6f54661939f11710a6fddb871",salto,SP,139,79.09,17.51,96.6
+casa_construcao,"1025f0e2d44d7041d6cf58b6550e0bfa",sao paulo,SP,59,167.66,32.74,200.4
+casa_construcao,"8a130737016f838139d31878787a39c9",sao paulo,SP,50,70.29,13.89,84.18
+climatizacao,"7a241947449cc45dbfda4f9d0798d9d0",jacutinga,MG,33,121.67,22.94,144.61
+consoles_games,"37515688008a7a40ac93e3b2e4ab203f",dracena,SP,227,24.27,14.28,38.55
+consoles_games,"7299e27ed73d2ad986de7f7c77d919fa",araguari,MG,154,81.7,19.03,100.72
+consoles_games,"522620dcb18a6b31cd7bdf73665113a9",cascavel,PR,92,382.42,25.56,407.98
+consoles_games,e8b3a3a38279a82f0e5d006d5e5b7d2c,jussara,PR,51,104.94,18.65,123.59
+consoles_games,"43f8c9950d11ecd03a0304a49e010da6",carapicuiba,SP,41,103.65,13.6,117.25
+consoles_games,ce27a3cc3c8cc1ea79d11e561e9bebb6,sao paulo,SP,36,81.69,14.04,95.73
+consoles_games,"66e0557ecc2b4dbea057e93f215f68d8",sao paulo,SP,31,402.58,16.06,418.64
+consoles_games,"17e34d8224d27a541263c4c64b11a56b",riberao preto,SP,28,212.64,19.84,232.48
+consoles_games,"080102cd0a76b09e0dcf55fcacc60e05",belo horizonte,MG,26,12.78,14.88,27.66
+consoles_games,"16090f2ca825584b5a147ab24aa30c86",atibaia,SP,25,323.04,14.03,337.07
+consoles_games,"81f89e42267213cb94da7ddc301651da",presidente prudente,SP,21,77.16,15.56,92.72
+consoles_games,fc906263ca5083d09dce42fe02247800,belo horizonte,MG,21,36.19,16.54,52.73
+construcao_ferramentas_construcao,"8648b1e89e9b349e32d3741b30ec737e",jacarei,SP,75,70.09,14.66,84.75
+construcao_ferramentas_construcao,"6860153b69cc696d5dcfe1cdaaafcf62",capivari,SP,72,44.49,17.82,62.31
+construcao_ferramentas_construcao,"0b35c634521043bf4b47e21547b99ab5",teixeira soares,PR,51,173.51,18.91,192.42
+construcao_ferramentas_construcao,"59b22a78efb79a4797979612b885db36",uberlandia,MG,39,289.05,41.57,330.62
+construcao_ferramentas_construcao,e0a366315b1b726b6c7832d664c0f530,sao paulo,SP,36,140.46,14.66,155.12
+construcao_ferramentas_construcao,"960945e1a9535cbc0cd6ddd35fbe7ae8",sao paulo,SP,25,125.09,17.3,142.4
+construcao_ferramentas_construcao,"72c5da29406b4234927b81855e7b64f6",guarulhos,SP,24,425.82,26.11,451.94
+construcao_ferramentas_construcao,"001cca7ae9ae17fb1caed9dfb1094831",cariacica,ES,23,108.36,47.0,155.36
+construcao_ferramentas_ferramentas,c8467937e403e76a8ee9f0ab13f6f5ef,pocos de caldas,MG,30,56.18,17.85,74.02
+construcao_ferramentas_iluminacao,d6b1ce66b035a475f00c017792ff9769,salto,SP,67,121.24,18.32,139.56
+construcao_ferramentas_iluminacao,"1025f0e2d44d7041d6cf58b6550e0bfa",sao paulo,SP,66,238.37,46.12,284.48
+construcao_ferramentas_iluminacao,"955fee9216a65b617aa5c0531780ce60",sao paulo,SP,41,40.86,11.94,52.79
+construcao_ferramentas_jardim,"8bb48dc19fccaa8613b6229bf7f452a2",assis,SP,54,46.81,21.63,68.45
+construcao_ferramentas_jardim,f80edd2c5aaa505cc4b0a3b219abf4b8,sao paulo,SP,41,94.58,26.55,121.13
+construcao_ferramentas_seguranca,"4a3ccda38b2129705f3fb522db62ca31",marilia,SP,50,249.19,18.86,268.06
+construcao_ferramentas_seguranca,"06e5eefc71ec47ae763c5c6f8db7064f",porto alegre,RS,27,328.05,26.49,354.55
+cool_stuff,"7a67c85e85bb2ce8582c35f2203ad736",sao paulo,SP,1064,126.67,17.89,144.57
+cool_stuff,ceaec5548eefc6e23e6607c5435102e7,sao paulo,SP,176,237.89,29.64,267.53
+cool_stuff,"7ddcbb64b5bc1ef36ca8c151f6ec77df",sao paulo,SP,172,162.07,22.12,184.19
+cool_stuff,"12b9676b00f60f3b700e83af21824c0e",montenegro,RS,132,199.37,26.62,225.99
+cool_stuff,"955fee9216a65b617aa5c0531780ce60",sao paulo,SP,115,34.89,16.59,51.48
+cool_stuff,"48436dade18ac8b2bce089ec2a041202",volta redonda,SP,114,69.6,18.89,88.49
+cool_stuff,"834f3294fba9f932f56edc879193f925",araraquara,SP,65,602.44,64.76,667.2
+cool_stuff,cb8bcce248bb1fb274ba762d8b971456,santa rita do sapucai,MG,63,139.03,17.12,156.15
+cool_stuff,"850f4f8af5ea87287ac68de36e29107f",sao paulo,SP,56,414.17,18.47,432.64
+cool_stuff,aac29b1b99776be73c3049939652091d,uberlandia,MG,54,64.51,22.18,86.69
+cool_stuff,"4869f7a5dfa277a7dca6462dcf3b52b2",guariba,SP,53,179.62,18.38,198.0
+cool_stuff,dc317f341ab0e22f39acbd9dbf9b4a1f,cachoeirinha,RS,52,332.96,63.48,396.44
+cool_stuff,e9bc59e7b60fc3063eb2290deda4cced,maringa,PR,45,141.54,15.99,157.53
+cool_stuff,f8db351d8c4c4c22c6835c19a46f01b0,salto,SP,35,59.84,13.75,73.6
+cool_stuff,"537eb890efff034a88679788b647c564",rio de janeiro,RJ,34,41.33,14.23,55.56
+cool_stuff,"8cbac7e12637ed9cffa18c7875207478",jaragua do sul,SC,34,42.5,18.98,61.48
+cool_stuff,"3504c0cb71d7fa48d967e0e4c94d59d9",maua,SP,33,46.68,12.22,58.9
+cool_stuff,"2e90cb1677d35cfe24eef47d441b7c87",sao paulo,SP,32,130.44,33.21,163.65
+cool_stuff,"44073f8b7e41514de3b7815dd0237f4f",brasilia,DF,32,95.71,21.48,117.19
+cool_stuff,"05ff92fedb5be47920fea08e501238b9",santo angelo,RS,30,283.05,26.0,309.05
+cool_stuff,"855668e0971d4dfd7bef1b6a4133b41b",itatiba,SP,28,188.32,26.57,214.89
+cool_stuff,c0563dd588b775f2e37747ef6ad6c92c,santo andre,SP,28,132.04,14.2,146.24
+cool_stuff,"2a84855fd20af891be03bc5924d2b453",belo horizonte,MG,27,96.7,23.29,119.99
+cool_stuff,c847e075301870dd144a116762eaff9a,uberaba,MG,27,83.58,21.05,104.63
+cool_stuff,"46dc3b2cc0980fb8ec44634e21d2718e",rio de janeiro,RJ,26,318.99,30.92,349.91
+cool_stuff,b2ba3715d723d245138f291a6fe42594,sao paulo,SP,26,122.63,21.87,144.49
+cool_stuff,"432c37c9dfba871172ec162e20118b8c",brasilia,DF,22,45.52,17.65,63.17
+cool_stuff,"8444e55c1f13cd5c179851e5ca5ebd00",congonhal,MG,22,238.41,20.93,259.34
+cool_stuff,"4e922959ae960d389249c378d1c939f5",jacarei,SP,21,65.54,14.54,80.08
+cool_stuff,"7aa4334be125fcdd2ba64b3180029f14",laranjal paulista,SP,21,74.26,15.77,90.03
+dvds_blu_ray,"75fbb52eda0cbc24f479d3b2fbfa8d3e",goiania,GO,40,26.3,21.94,48.24
+eletrodomesticos,d91fb3b7d041e83b64a00a3edfb37e4f,praia grande,SP,500,71.34,16.89,88.23
+eletrodomesticos,"4559697a8f7e637227c2eeaed843baff",presidente prudente,SP,36,69.9,18.71,88.61
+eletrodomesticos,f8db351d8c4c4c22c6835c19a46f01b0,salto,SP,34,32.82,14.98,47.79
+eletrodomesticos,"9674754b5a0cb32b638cec001178f799",sao paulo,SP,24,59.1,13.51,72.61
+eletrodomesticos_2,e882b2a25a10b9c057cc49695f222c19,teresopolis,RJ,34,1127.68,52.44,1180.12
+eletrodomesticos_2,"4917cee8d902e13428c3ec4b1ca6f315",blumenau,SC,29,166.96,37.12,204.08
+eletrodomesticos_2,"13d058e4eeac2ce8217660b2f8a05812",osasco,SP,23,166.51,40.27,206.78
+eletronicos,"8b321bb669392f5163d04c59e235e066",sao paulo,SP,850,15.58,13.88,29.46
+eletronicos,"128639473a139ac0f3e5f5ade55873a5",maringa,PR,516,20.56,17.5,38.06
+eletronicos,"5656537e588803a555b8eb41f07a944b",brasilia,DF,84,21.67,16.65,38.32
+eletronicos,"2e90cb1677d35cfe24eef47d441b7c87",sao paulo,SP,81,96.76,16.86,113.62
+eletronicos,dbd66278cbfe1aa1000f90a217ca4695,sao paulo,SP,67,50.67,15.23,65.9
+eletronicos,"4e922959ae960d389249c378d1c939f5",jacarei,SP,52,63.22,15.3,78.52
+eletronicos,"582d4f8675b945722eda7c0cb61ba4c7",bertioga,SP,51,55.44,13.58,69.02
+eletronicos,e9d99831abad74458942f21e16f33f92,sao paulo,SP,50,37.0,12.34,49.34
+eletronicos,c003204e1ab016dfa150abc119207b24,cajamar,SP,44,128.09,31.28,159.37
+eletronicos,"6039e27294dc75811c0d8a39069f52c0",osasco,SP,36,216.11,31.97,248.08
+eletronicos,"70a12e78e608ac31179aea7f8422044b",jacarei,SP,31,115.63,15.07,130.7
+eletronicos,b4a476fbd28de64b1e347abf9089366a,itapevi,SP,31,156.08,27.3,183.38
+eletronicos,"7178f9f4dd81dcef02f62acdf8151e01",videira,SC,24,90.3,17.66,107.97
+eletronicos,edf96ef93ed595084bbcbd9224bd2894,sao paulo,SP,24,133.22,22.1,155.32
+eletronicos,b2ba3715d723d245138f291a6fe42594,sao paulo,SP,23,60.64,17.95,78.59
+eletronicos,c9c7905cffc4ef9ff9f113554423e671,itapecerica da serra,SP,21,82.74,12.82,95.55
+eletronicos,f262cbc1c910c83959f849465454ddd3,sao paulo,SP,21,39.82,12.22,52.04
+eletroportateis,"4e7c18b98d84e05cbae3ff0ff03846c2",jaboticabal,SP,70,104.46,31.32,135.78
+eletroportateis,"9674754b5a0cb32b638cec001178f799",sao paulo,SP,57,45.77,11.99,57.75
+eletroportateis,cc3d14116804f7209f3884f6367f1152,curitiba,PR,25,199.19,20.35,219.54
+esporte_lazer,"218d46b86c1881d022bce9c68a7d4b15",ribeirao preto,SP,374,131.84,17.95,149.8
+esporte_lazer,"4d6d651bd7684af3fffabd5f08d12e5a",jau,SP,362,108.77,20.09,128.86
+esporte_lazer,c3cfdc648177fdbbbb35635a37472c53,curitiba,PR,276,138.98,19.78,158.76
+esporte_lazer,e9779976487b77c6d4ac45f75ec7afe9,praia grande,SP,276,67.85,13.59,81.44
+esporte_lazer,"4c2b230173bb36f9b240f2b8ac11786e",sao paulo,SP,260,42.21,12.7,54.91
+esporte_lazer,c3867b4666c7d76867627c2f7fb22e21,guara,SP,245,143.45,19.47,162.92
+esporte_lazer,"54a1852d1b8f10312c55e906355666ee",santa barbara d'oeste,SP,173,84.43,16.49,100.92
+esporte_lazer,"8f2ce03f928b567e3d56181ae20ae952",pirituba,SP,153,124.07,21.93,146.0
+esporte_lazer,"7008613ea464bad5cb9b83456e1e6a8f",canoinhas,SC,127,49.85,19.76,69.62
+esporte_lazer,"955fee9216a65b617aa5c0531780ce60",sao paulo,SP,121,116.66,20.13,136.79
+esporte_lazer,"669ae81880e08f269a64487cfb287169",rio do sul,SC,106,52.76,17.62,70.38
+esporte_lazer,"9616352088dcf83a7c06637f4ebf1c80",umuarama,PR,92,58.19,18.24,76.43
+esporte_lazer,"440dd6ab244315c632130ecfb63827b1",votuporanga,SP,91,148.35,22.24,170.59
+esporte_lazer,"76d5af76d0271110f9af36c92573f765",sao paulo,SP,90,250.56,26.43,276.98
+esporte_lazer,"70eea00b476a314817cefde4aad4f89a",itatiba,SP,89,291.26,23.69,314.95
+esporte_lazer,"7b07b3c7487f0ea825fc6df75abd658b",sao paulo,SP,89,93.47,13.62,107.09
+esporte_lazer,"80e6699fe29150b372a0c8a1ebf7dcc8",pinhais,PR,87,113.48,27.61,141.09
+esporte_lazer,"530ec6109d11eaaf87999465c6afee01",cascavel,PR,84,129.2,26.0,155.2
+esporte_lazer,"0509040ea3fe50071181bbc359eb7738",belo horizonte,MG,81,38.33,14.66,52.99
+esporte_lazer,"8d956fec2e4337affcb520f56fd8cbfd",sao bernardo do campo,SP,80,49.14,13.8,62.94
+esporte_lazer,"6b243f80ed07b10f0e8aa0f21a205f3c",curitiba,PR,79,70.34,17.39,87.72
+esporte_lazer,d05ae8f7a5bd1d2a690a44cd079e4e27,rio de janeiro,RJ,78,165.88,14.31,180.19
+esporte_lazer,f8db351d8c4c4c22c6835c19a46f01b0,salto,SP,77,91.65,16.81,108.46
+esporte_lazer,"670c26e0f1bf8d0576271d5cfaec6d2b",maringa,PR,73,75.61,19.85,95.46
+esporte_lazer,"2e1c9f22be269ef4643f826c9e650a52",sao paulo,SP,65,77.47,14.42,91.89
+esporte_lazer,a17f621c590ea0fab3d5d883e1630ec6,sorocaba,SP,64,34.93,14.11,49.04
+esporte_lazer,"1da3aeb70d7989d1e6d9b0e887f97c23",sao paulo,SP,63,38.06,13.13,51.19
+esporte_lazer,"5b925e1d006e9476d738aa200751b73b",sao paulo,SP,63,122.99,16.72,139.71
+esporte_lazer,"0be8ff43f22e456b4e0371b2245e4d01",sao paulo,SP,59,40.32,12.7,53.02
+esporte_lazer,a3a38f4affed601eb87a97788c949667,joinville,SC,59,110.76,20.25,131.01
+esporte_lazer,"08633c14ef2db992c11f840f04fad4cd",ribeirao pires,SP,58,94.12,14.83,108.95
+esporte_lazer,"4371b634e0efc0e22b09b52907d9d469",sao paulo,SP,58,99.6,14.58,114.18
+esporte_lazer,"6d803cb79cc31c41c4c789a75933b3c7",sao joaquim da barra,SP,58,131.99,18.39,150.38
+esporte_lazer,aaed1309374718fdd995ee4c58c9dfcd,timbo,SC,58,76.35,19.8,96.15
+esporte_lazer,c864036feaab8c1659f65ea4faebe1da,campo largo,PR,58,180.24,31.82,212.06
+esporte_lazer,"46dc3b2cc0980fb8ec44634e21d2718e",rio de janeiro,RJ,56,249.28,26.53,275.81
+esporte_lazer,d566c37fa119d5e66c4e9052e83ee4ea,sao paulo,SP,55,72.9,13.33,86.23
+esporte_lazer,"376a891762bbdecbc02b4b6adec3fdda",goiania,GO,51,81.96,21.34,103.29
+esporte_lazer,"50c9975695009e5e6473912e83a6d1da",claudio,MG,50,58.3,42.93,101.23
+esporte_lazer,"9b013e03b2ab786505a1d3b5c0756754",vicente de carvalho,SP,49,38.23,11.49,49.72
+esporte_lazer,cb3dd9ce66268c7a3ca7241ac70ab58c,sao paulo,SP,49,56.04,16.07,72.11
+esporte_lazer,"3db66a856d18a9cba7c9241fc5221c50",ponte nova,MG,46,67.82,17.66,85.48
+esporte_lazer,"9b00ed88b7fdb95d6ff76e27c1b52d16",sao paulo,SP,46,32.66,11.5,44.17
+esporte_lazer,dbc22125167c298ef99da25668e1011f,borda da mata,MG,46,105.15,19.49,124.64
+esporte_lazer,cd68562d3f44870c08922d380acae552,ribeirao preto,SP,43,154.25,16.6,170.85
+esporte_lazer,"066a6914e1ebf3ea95a216c73a986b91",foz do iguacu,PR,42,141.98,24.34,166.32
+esporte_lazer,"02f623a8eb246f3c5f7c2f96462654e6",botucatu,SP,41,145.32,18.93,164.25
+esporte_lazer,"751bdc4d83a466c7206cd42e8f426b03",ribeirao pires,SP,41,109.75,14.84,124.59
+esporte_lazer,b1ac6ea7895bc3dd6f0f6f4abbdd2821,canoas,RS,40,76.56,20.13,96.69
+esporte_lazer,"4da0e408c99d2fdc2126dc9fce518060",cornelio procopio,PR,39,52.74,17.04,69.78
+esporte_lazer,"55a5b51f93f2b70ea513f5a047b0262a",sao joao del rei,MG,39,97.62,20.66,118.28
+esporte_lazer,ef990a83bbea832f36ebe81376335aa8,joinville,SC,39,101.26,19.56,120.82
+esporte_lazer,"14d7985702e72162bbf13b6beb74ab2b",santo andre,SP,37,102.29,14.58,116.87
+esporte_lazer,"3fd1e727ba94cfe122d165e176ce7967",araraquara,SP,37,73.82,15.51,89.33
+esporte_lazer,"0691148aee60ca47977c187804f935ae",londrina,PR,35,118.18,30.29,148.47
+esporte_lazer,"6b3bd31ad8fcda4b2635ec9f3ff2ecdf",rio de janeiro,RJ,35,95.93,17.64,113.57
+esporte_lazer,"3c03b12bab54d8b37d79d914bfdb1aa0",sao joao de meriti,RJ,34,104.26,15.95,120.21
+esporte_lazer,dee656f0f566ed1aa85bd137c943f08f,cruzeiro,SP,33,77.69,19.21,96.9
+esporte_lazer,"2745f798279e0ed033addcc1474776d7",sao paulo,SP,32,114.64,21.76,136.41
+esporte_lazer,"33ac3e28642ab8bda860a2f693000e78",cotia,SP,32,99.43,13.84,113.27
+esporte_lazer,"6a0cbc8af2e8abd1bdfb777943d174c6",batatais,SP,31,114.02,20.95,134.97
+esporte_lazer,"6d66611d7c44cc30ce351abc49a68421",sao paulo,SP,31,98.04,19.87,117.92
+esporte_lazer,"78c99c6dff4eeae5be99bf635ed21e3f",marilia,SP,31,52.07,17.05,69.12
+esporte_lazer,"750303a20e9c56b2a6bc45cdce0b897d",goiania,GO,30,200.33,25.14,225.48
+esporte_lazer,"1b8356dabde1d35e17cef975c3f82730",sao paulo,SP,29,49.02,16.43,65.45
+esporte_lazer,"318f287a62ab7ac10b703ac37435a231",sao paulo,SP,29,22.5,18.98,41.48
+esporte_lazer,"4aba391bc3b88717ce08eb11e44937b2",arraial d'ajuda (porto seguro),BA,28,257.13,27.46,284.59
+esporte_lazer,e2aee0892199b1d92530e371abd825bf,rolandia,PR,27,130.62,85.04,215.66
+esporte_lazer,f7ba60f8c3f99e7ee4042fdef03b70c4,sao bernardo do campo,SP,27,88.9,17.59,106.49
+esporte_lazer,"06df0c10d34e459d9672bc77388742eb",maringa,PR,26,302.33,17.53,319.86
+esporte_lazer,"2089a6d640999f9b9141ac719b2af596",sao carlos,SP,26,118.33,15.0,133.33
+esporte_lazer,c9c7905cffc4ef9ff9f113554423e671,itapecerica da serra,SP,26,86.6,18.04,104.64
+esporte_lazer,"5b67882648febfb6e1225e6ad7164f6b",umuarama,PR,25,214.05,20.58,234.63
+esporte_lazer,d12c926d74ceff0a90a21184466ce161,sao paulo,SP,25,35.15,11.82,46.97
+esporte_lazer,"2e13c71026e1a39ba5cc1b86dcb679aa",sao paulo,SP,24,135.46,18.47,153.94
+esporte_lazer,"96804ea39d96eb908e7c3afdb671bb9e",ibia,MG,24,109.95,18.68,128.63
+esporte_lazer,bc47d5d1490df2b36add65d733eafaba,santo andre,SP,24,40.19,16.6,56.8
+esporte_lazer,e89c4adbe7b1d0819dbb636e16461cf1,indaiatuba,SP,24,127.25,18.19,145.45
+esporte_lazer,"821fb029fc6e495ca4f08a35d51e53a5",sao paulo,SP,23,699.05,56.17,755.22
+esporte_lazer,"730937bf88cb151eb2eb849f642fc213",rio claro,SP,22,108.51,17.54,126.04
+esporte_lazer,"7f2617c58d5d06806987308b45654351",sao paulo,SP,22,158.99,14.19,173.19
+esporte_lazer,"916748bc99315c2d202898ae58b1617e",sorocaba,SP,22,9.84,11.79,21.63
+esporte_lazer,cea729054f157f5870bdd321a958d994,sao paulo,SP,22,92.92,13.5,106.42
+esporte_lazer,df56d7b40d437f88407c5f78b63bc328,cascavel,PR,22,111.65,18.41,130.06
+esporte_lazer,f08c008c8a8d31417763738a1788a2a8,santa terezinha de itaipu,PR,22,56.16,18.39,74.55
+esporte_lazer,"0ef83d7d83ed97cd2a0049ac8be5f88a",curitiba,PR,21,111.34,22.64,133.97
+esporte_lazer,"7e1fb0a3ebfb01ffb3a7dae98bf3238d",franca,SP,21,123.59,15.46,139.05
+fashion_bolsas_e_acessorios,"6560211a19b47992c3666cc44a7e94c0",sao paulo,SP,325,53.17,13.11,66.27
+fashion_bolsas_e_acessorios,"0ea22c1cfbdc755f86b9b54b39c16043",sete lagoas,MG,217,40.32,15.8,56.12
+fashion_bolsas_e_acessorios,cab85505710c7cb9b720bceb52b01cee,sao paulo,SP,206,54.49,13.9,68.4
+fashion_bolsas_e_acessorios,e5a3438891c0bfdb9394643f95273d8e,limeira,SP,148,30.87,13.17,44.04
+fashion_bolsas_e_acessorios,"643214e62b870443ccbe55ab29a4dccf",sao paulo,SP,65,49.25,13.86,63.11
+fashion_bolsas_e_acessorios,b372ee768ed69e46ca8cdbd267aa7a38,sao jose do rio preto,SP,63,183.04,17.16,200.2
+fashion_bolsas_e_acessorios,d98eec89afa3380e14463da2aabaea72,porto alegre,RS,61,29.83,18.94,48.77
+fashion_bolsas_e_acessorios,efcd8d2104f1a05d028af7bad20d974b,aracatuba,SP,47,47.54,16.77,64.32
+fashion_bolsas_e_acessorios,"891071be6ba827b591264c90c2ae8a63",sao paulo,SP,45,59.84,13.07,72.92
+fashion_bolsas_e_acessorios,d57e18d5f73c7ccb7f7339b61166898d,sao paulo,SP,42,55.17,13.95,69.13
+fashion_bolsas_e_acessorios,"20d83f3ef0e6925fd74bfd59170babf7",sao paulo,SP,40,53.77,12.1,65.87
+fashion_bolsas_e_acessorios,f214d28e8d8e3ef068748498ccc2f813,sao paulo,SP,37,35.81,14.23,50.05
+fashion_bolsas_e_acessorios,"0ebd97a106433a45a4aebe57c1799778",contagem,MG,31,95.21,19.21,114.43
+fashion_bolsas_e_acessorios,"33576ec5412fb5905d876f12f33bfde6",curitiba,PR,31,84.94,17.81,102.75
+fashion_bolsas_e_acessorios,"3c487ae8f8d7542beff5788e2e0aea83",gama,DF,30,284.42,21.81,306.22
+fashion_bolsas_e_acessorios,"0cbcee27c791afa0cdcb08587a2013a8",tres coracoes,MG,29,120.1,20.59,140.69
+fashion_bolsas_e_acessorios,"1da3aeb70d7989d1e6d9b0e887f97c23",sao paulo,SP,27,23.06,11.55,34.61
+fashion_bolsas_e_acessorios,"1f1bb1f0859883505541bdd6606193e5",sao paulo,SP,25,499.36,17.46,516.83
+fashion_bolsas_e_acessorios,"272f092de69afedd4d2969440b37f18f",sao paulo,SP,24,48.19,12.41,60.59
+fashion_calcados,"7142540dd4c91e2237acb7e911c4eba2",penapolis,SP,92,90.06,18.9,108.96
+fashion_calcados,"827f8f69dfa529c561901c4f2e0f332f",curitiba,PR,66,32.32,15.51,47.83
+fashion_calcados,"048c2757535328e0d7dac690ad3c0aae",franca,SP,51,181.66,25.22,206.88
+fashion_roupa_masculina,aaed1309374718fdd995ee4c58c9dfcd,timbo,SC,31,110.01,20.6,130.61
+fashion_roupa_masculina,dc8798cbf453b7e0f98745e396cc5616,sao paulo,SP,23,36.72,11.8,48.52
+fashion_underwear_e_moda_praia,a6fe7de3d16f6149ffe280349a8535a0,franca,SP,51,55.86,14.28,70.14
+fashion_underwear_e_moda_praia,"4bf2f4ee540798a61f9636d12cd9cc80",assis,SP,26,156.85,16.3,173.15
+ferramentas_jardim,"1f50f920176fa81dab994f9023523100",sao jose do rio preto,SP,1378,54.8,17.89,72.69
+ferramentas_jardim,a1043bafd471dff536d0c462352beb48,ilicinea,MG,399,128.16,42.44,170.6
+ferramentas_jardim,"001cca7ae9ae17fb1caed9dfb1094831",cariacica,ES,177,104.5,35.78,140.28
+ferramentas_jardim,"1127b7f2594683f2510f1c2c834a486b",campinas,SP,107,53.22,13.99,67.21
+ferramentas_jardim,"81a1104df0f08b59c68aa5b03cfe398e",sao jose dos pinhais,PR,73,129.05,24.85,153.91
+ferramentas_jardim,e26901d5ab434ce92fd9b5c256820a4e,maua,SP,70,35.79,13.52,49.31
+ferramentas_jardim,eeb6de78f79159600292e314a77cbd18,lages,SC,67,526.03,33.81,559.84
+ferramentas_jardim,"955fee9216a65b617aa5c0531780ce60",sao paulo,SP,64,158.8,16.13,174.93
+ferramentas_jardim,d50d79cb34e38265a8649c383dcffd48,sao paulo,SP,46,190.88,25.93,216.82
+ferramentas_jardim,ff063b022a9a0aab91bad2c9088760b7,santo andre,SP,44,122.69,21.13,143.82
+ferramentas_jardim,f8db351d8c4c4c22c6835c19a46f01b0,salto,SP,41,29.82,16.2,46.02
+ferramentas_jardim,"48162d548f5b1b11b9d29d1e01f75a61",piracicaba,SP,33,246.5,25.69,272.19
+ferramentas_jardim,"23c38debaffe4a25a30fdbd9b586a13f",votorantim,SP,30,102.08,15.14,117.22
+ferramentas_jardim,dfc5fb7259bb2b599ca565e6e9448f0f,sao bernardo do campo,SP,30,187.09,21.86,208.95
+ferramentas_jardim,"23a0ffca143a15b9b5bbdb7d552f626a",sao pedro,SP,22,159.5,24.86,184.36
+ferramentas_jardim,"282f23a9769b2690c5dda22e316f9941",belo horizonte,MG,22,61.78,16.67,78.45
+ferramentas_jardim,"73a63f72308aa20a46f4b1632018f196",curitiba,PR,22,234.97,28.35,263.32
+ferramentas_jardim,f7720c4fa8e3aba4546301ab80ea1f1b,curitiba,PR,22,28.74,16.64,45.39
+ferramentas_jardim,"79ed755314cfe6df0daef2c6cd3022cd",rio claro,SP,21,159.45,18.13,177.57
+ferramentas_jardim,"903037660cf848a717166eb7a06d616e",sao paulo,SP,21,69.54,14.56,84.1
+industria_comercio_e_negocios,"0dd184061fb0eaa7ca37932c68ab91c5",guarulhos,SP,92,88.06,30.32,118.38
+industria_comercio_e_negocios,"955fee9216a65b617aa5c0531780ce60",sao paulo,SP,31,113.94,15.65,129.59
+industria_comercio_e_negocios,"7681ef142fd2c19048da7430856b5588",guarulhos,SP,23,91.38,30.03,121.41
+informatica_acessorios,"85d9eb9ddc5d00ca9336a2219c97bb13",belo horizonte,MG,473,29.57,16.64,46.2
+informatica_acessorios,"9f505651f4a6abe901a56cdc21508025",sao paulo,SP,342,65.48,14.36,79.83
+informatica_acessorios,de722cd6dad950a92b7d4f82673f8833,recife,PE,324,144.19,25.5,169.69
+informatica_acessorios,a1043bafd471dff536d0c462352beb48,ilicinea,MG,323,137.65,40.12,177.77
+informatica_acessorios,"897060da8b9a21f655304d50fd935913",ribeirao preto,SP,305,52.4,15.26,67.66
+informatica_acessorios,"88460e8ebdecbfecb5f9601833981930",maringa,PR,248,104.46,16.54,121.0
+informatica_acessorios,"87142160b41353c4e5fca2360caf6f92",porto alegre,RS,246,96.98,21.45,118.43
+informatica_acessorios,f457c46070d02cadd8a68551231220dd,maringa,PR,199,81.59,15.87,97.47
+informatica_acessorios,e9bc59e7b60fc3063eb2290deda4cced,maringa,PR,172,124.81,17.73,142.53
+informatica_acessorios,"0b90b6df587eb83608a64ea8b390cf07",maringa,PR,164,136.15,17.22,153.37
+informatica_acessorios,"9c0e69c7bf2619675bbadf47b43f655a",sao jose dos campos,SP,157,162.91,14.1,177.01
+informatica_acessorios,"25c5c91f63607446a97b143d2d535d31",itauna,MG,154,203.27,26.02,229.29
+informatica_acessorios,"4e922959ae960d389249c378d1c939f5",jacarei,SP,139,134.11,15.94,150.06
+informatica_acessorios,"1c68394e931a64f90ea236c5ea590300",sarandi,PR,126,143.87,17.1,160.97
+informatica_acessorios,"229c3efbfb0ea2058de4ccdfbc3d784a",belo horizonte,MG,121,106.38,15.96,122.34
+informatica_acessorios,"70a12e78e608ac31179aea7f8422044b",jacarei,SP,107,100.6,15.99,116.6
+informatica_acessorios,"00fc707aaaad2d31347cf883cd2dfe10",maringa,PR,103,93.96,16.93,110.89
+informatica_acessorios,f262cbc1c910c83959f849465454ddd3,sao paulo,SP,100,58.59,11.4,70.0
+informatica_acessorios,"6973a06f484aacf400ece213dbf3d946",sao jose dos campos,SP,95,95.75,11.86,107.61
+informatica_acessorios,"080102cd0a76b09e0dcf55fcacc60e05",belo horizonte,MG,92,54.22,17.8,72.02
+informatica_acessorios,"8e6d7754bc7e0f22c96d255ebda59eba",sao jose dos campos,SP,85,111.52,13.19,124.71
+informatica_acessorios,"36a968b544695394e4e9d7572688598f",santos,SP,82,54.98,13.01,67.99
+informatica_acessorios,"8c16d1f32a54d92897cc437244442e1b",blumenau,SC,80,43.08,17.65,60.74
+informatica_acessorios,bd0389da23d89b726abf911cccc54596,brasilia,DF,76,80.4,18.68,99.08
+informatica_acessorios,e9d99831abad74458942f21e16f33f92,sao paulo,SP,76,30.68,13.82,44.5
+informatica_acessorios,"7e3f87d16fb353f408d467e74fbd8014",sao paulo,SP,72,46.75,15.67,62.42
+informatica_acessorios,"8e8a7ce9f2f970dc00e2acf6f6e199f6",sao goncalo,RJ,65,137.89,17.94,155.83
+informatica_acessorios,"9646c3513289980f17226a2fc4720dbd",sao jose dos campos,SP,64,35.81,15.69,51.5
+informatica_acessorios,"96493fab2fbb13a14d0c0e8772eef5c3",sao paulo,SP,63,296.39,18.94,315.33
+informatica_acessorios,fc906263ca5083d09dce42fe02247800,belo horizonte,MG,63,37.93,15.84,53.77
+informatica_acessorios,"2eb70248d66e0e3ef83659f71b244378",campinas,SP,62,79.9,12.2,92.1
+informatica_acessorios,"3bdff180c7e1f6551a643b99c265a120",sao paulo,SP,59,51.06,17.16,68.23
+informatica_acessorios,"1838dd9b8977065acf51d95e0053ea7a",belo horizonte,MG,57,39.08,17.57,56.65
+informatica_acessorios,"2b3e4a2a3ea8e01938cabda2a3e5cc79",sao paulo,SP,52,437.58,16.78,454.35
+informatica_acessorios,"165fc07beebdcb6190fba8a06db2a449",maringa,PR,47,241.02,25.73,266.76
+informatica_acessorios,"3bb548e3cb7f70f28e3f11ee9dce0e59",maringa,PR,46,145.09,16.92,162.02
+informatica_acessorios,"7ddcbb64b5bc1ef36ca8c151f6ec77df",sao paulo,SP,46,36.07,13.14,49.21
+informatica_acessorios,"522620dcb18a6b31cd7bdf73665113a9",cascavel,PR,43,195.43,30.14,225.57
+informatica_acessorios,"17e34d8224d27a541263c4c64b11a56b",riberao preto,SP,41,272.76,19.82,292.58
+informatica_acessorios,"34d1ca11b242c0fee2c834ae8d788566",congonhas,MG,40,327.37,23.95,351.32
+informatica_acessorios,ede0c03645598cdfc63ca8237acbe73d,ribeirao preto,SP,40,54.33,15.33,69.65
+informatica_acessorios,ce27a3cc3c8cc1ea79d11e561e9bebb6,sao paulo,SP,38,26.58,11.89,38.46
+informatica_acessorios,"5656537e588803a555b8eb41f07a944b",brasilia,DF,37,61.94,19.88,81.83
+informatica_acessorios,ec8879960bd2221d5c32f8e12f7da711,itatiba,SP,36,112.84,22.75,135.59
+informatica_acessorios,"06e5eefc71ec47ae763c5c6f8db7064f",porto alegre,RS,34,214.58,22.52,237.1
+informatica_acessorios,d5ba419e26d246a0719437cf37d9b46d,sao paulo,SP,34,116.04,14.86,130.9
+informatica_acessorios,f8db351d8c4c4c22c6835c19a46f01b0,salto,SP,34,43.9,14.04,57.94
+informatica_acessorios,"3340ef1913fb70d28420f6ceb685c339",maringa,PR,32,160.27,17.87,178.13
+informatica_acessorios,"8d956fec2e4337affcb520f56fd8cbfd",sao bernardo do campo,SP,32,41.41,13.98,55.39
+informatica_acessorios,"974cf2cb8f4b7add98709c30df02fe10",araraquara,SP,32,90.86,17.46,108.32
+informatica_acessorios,"710e3548e02bc1d2831dfc4f1b5b14d4",rolandia,PR,28,99.99,21.38,121.37
+informatica_acessorios,"18e694e0e48ed6f7aa3f24aade5fd697",varzea paulista,SP,27,21.51,15.15,36.66
+informatica_acessorios,"7178f9f4dd81dcef02f62acdf8151e01",videira,SC,26,81.74,19.79,101.53
+informatica_acessorios,e8b3a3a38279a82f0e5d006d5e5b7d2c,jussara,PR,26,230.86,20.71,251.57
+informatica_acessorios,ed4acab38528488b65a9a9c603ff024a,sao paulo,SP,26,197.49,14.1,211.59
+informatica_acessorios,"18a349e75d307f4b4cc646a691ed4216",sao paulo,SP,24,57.88,16.42,74.3
+informatica_acessorios,"4b5f66b7adcf57f1ecc0d3c07dd6b177",vendas@creditparts.com.br,PR,23,167.94,19.32,187.26
+informatica_acessorios,"955fee9216a65b617aa5c0531780ce60",sao paulo,SP,23,84.34,16.56,100.9
+informatica_acessorios,"0db783cfcd3b73998abc6e10e59a102f",santos,SP,22,46.01,15.07,61.08
+informatica_acessorios,"5b8154610ebb21fb90eb587365e673df",sao jose dos campos,SP,21,303.49,32.93,336.41
+instrumentos_musicais,f5a590cf36251cf1162ea35bef76fe84,sao bernardo do campo,SP,101,374.05,33.53,407.59
+instrumentos_musicais,"6d66611d7c44cc30ce351abc49a68421",sao paulo,SP,96,79.64,19.0,98.65
+instrumentos_musicais,ce248b21cb2adc36282ede306b7660e5,jaragua do sul,SC,42,174.17,26.17,200.34
+instrumentos_musicais,"83deb69e889cf80f82be1dc6d5f2d486",florianopolis,SC,40,127.69,21.75,149.44
+instrumentos_musicais,d23019c84ffae2d5ef2270367b8605fc,londrina,PR,39,748.85,70.51,819.35
+instrumentos_musicais,"7b0df942f46435babab05d49b744b2c4",braganca paulista,SP,31,717.47,21.09,738.56
+instrumentos_musicais,"955fee9216a65b617aa5c0531780ce60",sao paulo,SP,23,92.5,14.53,107.03
+livros_importados,"7c5b05cbdb5542049f38d90d7815b97d",sao paulo,SP,22,43.29,12.77,56.06
+livros_interesse_geral,"527801b552d0077ffd170872eb49683b",garca,SP,85,204.55,22.15,226.7
+livros_interesse_geral,"669ae81880e08f269a64487cfb287169",rio do sul,SC,55,114.74,19.22,133.96
+livros_interesse_geral,"83e197e95a1bbabc8c75e883ed016c47",mage,RJ,45,125.37,18.34,143.72
+livros_interesse_geral,f0b47fbbc6dee9aafe415a6e33051b3f,maua,SP,43,45.88,14.72,60.6
+livros_interesse_geral,"1bb2bdb95f4841f1bba2c0d2cd83d3c9",sao paulo,SP,36,32.27,12.04,44.3
+livros_tecnicos,ba143b05f0110f0dc71ad71b4466ce92,sao paulo,SP,78,69.62,15.61,85.23
+livros_tecnicos,"5f3ae9136c875522250f8184f253413a",sao paulo,SP,40,25.69,13.89,39.58
+livros_tecnicos,"0ffa40d54288e4f3499b8780dd0f144f",presidente prudente,SP,30,62.99,16.81,79.8
+malas_acessorios,dbc22125167c298ef99da25668e1011f,borda da mata,MG,260,77.17,18.75,95.93
+malas_acessorios,"5dceca129747e92ff8ef7a997dc4f8ca",santa barbara d´oeste,SP,184,153.92,45.33,199.25
+malas_acessorios,"6cd68b3ed6d59aaa9fece558ad360c0a",belo horizonte,MG,96,80.99,16.33,97.32
+malas_acessorios,"7ddcbb64b5bc1ef36ca8c151f6ec77df",sao paulo,SP,36,242.71,54.15,296.86
+malas_acessorios,f262cbc1c910c83959f849465454ddd3,sao paulo,SP,34,41.02,14.98,55.99
+malas_acessorios,"0be8ff43f22e456b4e0371b2245e4d01",sao paulo,SP,33,115.0,13.8,128.8
+malas_acessorios,b1a81260566c1bac3114a6d124413f27,carazinho,RS,32,176.08,31.02,207.09
+malas_acessorios,"02f5837340d7eb4f653d676c7256523a",curitiba,PR,30,129.44,19.36,148.8
+malas_acessorios,"3f3486b61f45078d4f31ee5e43d8c5bb",sao paulo,SP,29,71.03,20.07,91.1
+malas_acessorios,d1b65fc7debc3361ea86b5f14c68d2e2,mogi guacu,SP,27,318.36,42.88,361.23
+malas_acessorios,"2a84855fd20af891be03bc5924d2b453",belo horizonte,MG,25,233.58,33.97,267.55
+malas_acessorios,bfd27a966d91cfaafdb25d076585f0da,serra negra,SP,22,245.82,31.82,277.64
+market_place,aae3bfea055532c57fb453ed3ec80b30,santo andre,SP,48,61.16,15.98,77.14
+market_place,"6039e27294dc75811c0d8a39069f52c0",osasco,SP,23,111.5,22.06,133.56
+market_place,"7d456afc660226829370f3173d14520c",mogi das cruzes,SP,23,91.51,14.99,106.5
+market_place,"1bb2bdb95f4841f1bba2c0d2cd83d3c9",sao paulo,SP,21,26.8,13.48,40.28
+moveis_colchao_e_estofado,"00ee68308b45bc5e2660cd833c3f81cc",sao paulo,SP,22,84.55,42.22,126.76
+moveis_cozinha_area_de_servico_jantar_e_jardim,f80edd2c5aaa505cc4b0a3b219abf4b8,sao paulo,SP,58,56.09,22.11,78.2
+moveis_decoracao,"1025f0e2d44d7041d6cf58b6550e0bfa",sao paulo,SP,790,86.32,22.1,108.42
+moveis_decoracao,cca3071e3e9bb7d12640c9fbe2301306,ibitinga,SP,453,66.35,16.23,82.58
+moveis_decoracao,"955fee9216a65b617aa5c0531780ce60",sao paulo,SP,439,72.65,13.74,86.39
+moveis_decoracao,"77530e9772f57a62c906e1c21538ab82",curitiba,PR,315,121.5,21.82,143.31
+moveis_decoracao,"391fc6631aebcf3004804e51b40bcf1e",ibitinga,SP,269,76.58,17.81,94.4
+moveis_decoracao,"0241d4d5d36f10f80c644447315af0bd",curitiba,PR,238,127.63,27.86,155.49
+moveis_decoracao,"79ebd9a61bac3eaf882805ed4ecfa12a",cascavel,PR,136,105.54,28.06,133.6
+moveis_decoracao,"1554a68530182680ad5c8b042c3ab563",monte siao,MG,121,59.99,19.47,79.45
+moveis_decoracao,"6edacfd9f9074789dad6d62ba7950b9c",guarulhos,SP,118,69.11,13.9,83.01
+moveis_decoracao,"5a8e7d5003a1f221f9e1d6e411de7c23",campinas,SP,117,62.58,15.38,77.95
+moveis_decoracao,"8a32e327fe2c1b3511609d81aaf9f042",sao paulo,SP,100,29.0,12.8,41.8
+moveis_decoracao,"6c7d50c24b3ccd2fd83b44d8bb34e073",presidente prudente,SP,96,73.32,21.05,94.37
+moveis_decoracao,bd23da7354813347129d751591d1a6e2,sao paulo,SP,89,117.16,16.3,133.46
+moveis_decoracao,d20b021d3efdf267a402c402a48ea64b,ibitinga,SP,85,35.54,14.87,50.41
+moveis_decoracao,"4a3ca9315b744ce9f8e9374361493884",ibitinga,SP,81,77.18,14.73,91.91
+moveis_decoracao,"710e3548e02bc1d2831dfc4f1b5b14d4",rolandia,PR,76,198.02,32.59,230.62
+moveis_decoracao,b14db04aa7881970e83ffa9426897925,sorocaba,SP,73,50.91,19.81,70.73
+moveis_decoracao,"30a2f535bb48308f991d0b9ad4a8c4bb",santa barbara d'oeste,SP,71,54.38,12.46,66.84
+moveis_decoracao,"5343d0649eca2a983820bfe93fc4d17e",santo andre,SP,71,90.1,21.55,111.65
+moveis_decoracao,"7c67e1448b00f6e969d365cea6b010ab",itaquaquecetuba,SP,67,111.86,37.51,149.37
+moveis_decoracao,b499c00f28f4b7069ff6550af8c1348a,limeira,SP,66,59.0,14.35,73.35
+moveis_decoracao,"23613d49c3ac2bd302259e55c06c050c",porto ferreira,SP,65,54.21,27.31,81.51
+moveis_decoracao,cac4c8e7b1ca6252d8f20b2fc1a2e4af,indaiatuba,SP,58,49.51,18.75,68.26
+moveis_decoracao,"537eb890efff034a88679788b647c564",rio de janeiro,RJ,56,20.24,15.16,35.4
+moveis_decoracao,"3df020b72d3d44b3af9d110fa3940b65",jales,SP,55,49.9,16.93,66.83
+moveis_decoracao,b92e3c8f9738272ff7c59e111e108d7c,uba,MG,54,113.42,31.96,145.37
+moveis_decoracao,"624f4ece8da4aafb77699233d480f8ef",sao paulo,SP,52,166.41,31.48,197.89
+moveis_decoracao,"002100f778ceb8431b7a1020ff7ab48f",franca,SP,51,22.45,14.43,36.88
+moveis_decoracao,"2a261b5b644fa05f4f2700eb93544f2c",porto ferreira,SP,51,65.3,24.9,90.2
+moveis_decoracao,ff063b022a9a0aab91bad2c9088760b7,santo andre,SP,48,88.48,19.54,108.02
+moveis_decoracao,"31344c16881c08a8a72c6d2eb29918c1",uba,MG,43,223.62,53.42,277.04
+moveis_decoracao,"95f83f51203c626648c875dd41874c7f",borda da mata,MG,43,50.82,25.41,76.23
+moveis_decoracao,"82e0a475a88cc9595229d8029273f045",sao paulo,SP,41,138.1,18.56,156.66
+moveis_decoracao,"1ce3ae5a399804d1a87e706f8a813c3e",jaguaruna,SC,40,58.25,19.4,77.65
+moveis_decoracao,"63b464dbf392c7b80d12d932fa7cafed",sao paulo,SP,37,173.87,22.6,196.47
+moveis_decoracao,"09f952a5f58d2285b0372551ae8f9b01",sao bernardo do campo,SP,36,162.56,20.82,183.38
+moveis_decoracao,"1da3aeb70d7989d1e6d9b0e887f97c23",sao paulo,SP,36,17.15,11.96,29.11
+moveis_decoracao,bd4889b5e9133b35b66e42a8665cea5c,sao paulo,SP,36,149.33,23.44,172.77
+moveis_decoracao,"6fc26fe110feebd80a433e1f012a84f9",fernandopolis,SP,35,57.65,13.57,71.22
+moveis_decoracao,"0bf0150d5b9d60d9cd2906003332f085",sao paulo,SP,34,93.6,16.96,110.56
+moveis_decoracao,"0c8380b62e38e8a1e6adbeba7eb9688c",tres coracoes,MG,34,93.49,20.45,113.94
+moveis_decoracao,"9add47bf45ce8e8c7db6b9cf670b1e09",fazenda rio grande,PR,34,106.57,26.01,132.58
+moveis_decoracao,"7722b1df1b0e383e000397b2c11e3e19",sao bernardo do campo,SP,33,44.79,13.28,58.07
+moveis_decoracao,"20cb7c2fde3e5bf10f0bbe7394e1c6a9",andira-pr,PR,32,16.9,15.65,32.55
+moveis_decoracao,"1da366cade6d8276e7d8beea7af5d4bf",uba,MG,31,39.39,16.36,55.76
+moveis_decoracao,"53e4c6e0f4312d4d2107a8c9cddf45cd",pedreira,SP,31,50.84,20.89,71.73
+moveis_decoracao,f7720c4fa8e3aba4546301ab80ea1f1b,curitiba,PR,29,19.51,17.12,36.63
+moveis_decoracao,ccf8813e5a7d6c84d865cd38bfc2b130,taubate,SP,25,103.02,16.12,119.15
+moveis_decoracao,d6b1ce66b035a475f00c017792ff9769,salto,SP,25,93.99,20.19,114.18
+moveis_decoracao,"41b39e28db005d9731d9d485a83b4c38",santo andre,SP,24,73.53,22.05,95.58
+moveis_decoracao,"715bbd5ba4e6b74cb0d2f29eb45058b0",serra negra,SP,24,66.78,18.21,84.99
+moveis_decoracao,"8bd0f31cf0a614c658f6763bd02dea69",sao paulo,SP,24,115.03,31.77,146.8
+moveis_decoracao,"244c2f1bff6afe1f2eaf9bfe9b2aed38",mogi das cruzes,SP,23,95.56,45.0,140.55
+moveis_decoracao,dbb9b48c841a0e39e21f98e1a6b2ec3e,sao paulo,SP,23,47.81,12.45,60.25
+moveis_decoracao,"157c3e4b42f81ac4a44e8b1ca2fe9876",sao paulo,SP,22,92.17,20.45,112.62
+moveis_decoracao,e5a38146df062edaf55c38afa99e42dc,sao paulo,SP,22,95.04,14.43,109.47
+moveis_decoracao,eed78ac17f7f795a19a709745f00cd4e,botucatu,SP,22,77.67,15.11,92.78
+moveis_decoracao,"1336efc61c316ddf92c899eb817f7cae",assis,SP,21,41.14,18.62,59.76
+moveis_escritorio,"7c67e1448b00f6e969d365cea6b010ab",itaquaquecetuba,SP,891,140.28,37.82,178.1
+moveis_escritorio,"17a053fcb14bd219540cbde0df490be0",mogi guacu,SP,121,269.05,59.18,328.23
+moveis_escritorio,a7f13822ceb966b076af67121f87b063,itaquaquecetuba,SP,69,143.66,35.04,178.7
+moveis_escritorio,"5058e8c1e82653974541e83690655b4a",itaquaquecetuba,SP,46,149.31,43.73,193.04
+moveis_escritorio,b8555308bfdb4ca1ed54325a58da9a97,sao bernardo do campo,SP,26,108.83,20.82,129.64
+moveis_quarto,"3ade81dab5a172b88e1871c28ae05260",sao jose do rio preto,SP,27,179.81,47.36,227.17
+moveis_sala,"1554a68530182680ad5c8b042c3ab563",monte siao,MG,89,206.51,37.28,243.79
+moveis_sala,"701938c450705b8ae65fc923b70f35c7",s jose do rio preto,SP,70,106.99,33.75,140.74
+moveis_sala,"8b9d6eec4a7eb7d0f9d579ce0b38324d",mesquita,RJ,48,80.05,32.05,112.09
+moveis_sala,"870d0118f7a9d85960f29ad89d5d989a",pocos de caldas,MG,37,42.35,21.43,63.77
+papelaria,"3d871de0142ce09b7081e2b9d1733cb1",campo limpo paulista,SP,792,96.08,20.86,116.94
+papelaria,"2c9e548be18521d1c43cde1c582c6de8",mogi das cruzes,SP,97,29.58,14.11,43.68
+papelaria,b2ba3715d723d245138f291a6fe42594,sao paulo,SP,88,163.65,17.75,181.4
+papelaria,dbc22125167c298ef99da25668e1011f,borda da mata,MG,88,64.86,17.91,82.77
+papelaria,aba1721a889e04decc910aa13b768ef4,sao paulo,SP,77,153.27,13.53,166.8
+papelaria,b561927807645834b59ef0d16ba55a24,sao paulo,SP,72,46.07,13.77,59.85
+papelaria,de23c3b98a88888289c6f5cc1209054a,sao paulo,SP,68,145.72,15.07,160.79
+papelaria,"2a84855fd20af891be03bc5924d2b453",belo horizonte,MG,66,74.61,16.6,91.21
+papelaria,"955fee9216a65b617aa5c0531780ce60",sao paulo,SP,46,51.06,16.39,67.45
+papelaria,"3586b8580d9c917874e053a1bb37b5ff",araraquara,SP,33,34.45,19.0,53.45
+papelaria,"6cd68b3ed6d59aaa9fece558ad360c0a",belo horizonte,MG,33,65.25,16.73,81.97
+papelaria,"0d85bbda9889ce1f7e63778d24f346eb",uberlandia,MG,31,72.09,27.54,99.64
+papelaria,"323ce52b5b81df2cd804b017b7f09aa7",sao paulo,SP,28,87.22,13.41,100.63
+papelaria,"1da3aeb70d7989d1e6d9b0e887f97c23",sao paulo,SP,27,19.59,13.11,32.7
+papelaria,acce39e832338debb07b02385cde5967,contagem,MG,27,104.0,25.52,129.51
+papelaria,"77a515caa36327151d1cc6c32a9f00e1",diadema,SP,26,85.28,15.24,100.52
+papelaria,"5f5b43b2bffa8656e4bc6efeb13cc649",sao paulo,SP,24,121.1,18.06,139.16
+papelaria,"7ecd59e5e20407131822c1a68ac59c1f",brasilia,DF,24,50.58,20.27,70.85
+papelaria,bfd27a966d91cfaafdb25d076585f0da,serra negra,SP,22,141.5,19.36,160.86
+papelaria,fd386aa7bed2af3c7035c65506c9b4a3,sao paulo,SP,21,55.54,12.71,68.25
+pcs,"53243585a1d6dc2643021fd1853d8905",lauro de freitas,BA,146,1090.67,46.56,1137.23
+pcs,"7681ef142fd2c19048da7430856b5588",guarulhos,SP,26,687.78,47.38,735.16
+perfumaria,cc419e0650a3c5ba77189a1882b7556a,santo andre,SP,631,60.92,13.79,74.71
+perfumaria,"620c87c171fb2a6dd6e8bb4dec959fc6",petropolis,RJ,369,189.45,17.01,206.47
+perfumaria,fe2032dab1a61af8794248c8196565c9,campinas,SP,291,215.01,15.45,230.46
+perfumaria,"3c7c4a49ec3c6550809089c6a2ca9370",sao paulo,SP,141,25.21,11.4,36.61
+perfumaria,"17e34d8224d27a541263c4c64b11a56b",riberao preto,SP,135,178.6,17.52,196.12
+perfumaria,ef0ace09169ac090589d85746e3e036f,sao goncalo,RJ,110,117.97,16.21,134.18
+perfumaria,"289cdb325fb7e7f891c38608bf9e0962",belo horizonte,SP,104,108.9,16.82,125.72
+perfumaria,"0c7533c71df861ec58ad7ff999ed0e8d",valinhos,SP,61,40.95,11.98,52.92
+perfumaria,"058fd0aa2bfdb2274e05e1ae971dabb6",santo andre,SP,60,119.49,13.84,133.33
+perfumaria,"2dee2ce60de9709b1a24083217181a1f",sinop,MT,54,141.54,37.46,178.99
+perfumaria,a888faf2d1baececa6baf9c3d603ee1f,umuarama,PR,54,323.01,20.39,343.41
+perfumaria,"7178f9f4dd81dcef02f62acdf8151e01",videira,SC,53,331.52,21.46,352.98
+perfumaria,afe0067131b73e40875c9b6c10bd2e21,lagoa da prata,MG,46,111.53,24.47,136.0
+perfumaria,f8db351d8c4c4c22c6835c19a46f01b0,salto,SP,43,101.57,18.44,120.01
+perfumaria,"26d8a1c7c75d513045798992ead43aa2",apucarana,PR,32,176.91,18.6,195.52
+perfumaria,"11bfa66332777660bd0640ee84d47006",ribeirao preto,SP,31,23.77,14.38,38.15
+perfumaria,"4e06067cc08b3f41d837768d392c3ee3",betim,MG,31,20.47,12.45,32.92
+perfumaria,"8444e55c1f13cd5c179851e5ca5ebd00",congonhal,MG,30,154.5,21.01,175.51
+perfumaria,"4e17c65a516f69d023a2ae78b84f28d6",suzano,SP,29,114.93,14.42,129.35
+perfumaria,"8931a84a914b3fe9b1ddaa4d704947ca",sao paulo,SP,29,145.88,13.27,159.15
+perfumaria,"1464afc72f696af775557a821c2e253f",nova friburgo,RJ,24,37.31,15.23,52.55
+perfumaria,"81f89e42267213cb94da7ddc301651da",presidente prudente,SP,24,77.19,14.02,91.21
+perfumaria,"5670f4db5b62c43d542e1b2d56b0cf7c",sao paulo,SP,22,301.37,26.48,327.85
+perfumaria,"808d4348b916efa08e766ebad39f61eb",sao paulo,SP,21,34.81,13.52,48.33
+pet_shop,"66922902710d126a0e7d26b0e3805106",belo horizonte,MG,151,92.07,20.63,112.7
+pet_shop,"5cf13accae3222c70a9cac40818ae839",patos de minas,MG,148,92.09,19.15,111.24
+pet_shop,f45122a9ab94eb4f3f8953578bc0c560,piracicaba,SP,130,131.39,17.31,148.7
+pet_shop,dd7ddc04e1b6c2c614352b383efe2d36,sao paulo,SP,104,65.18,20.55,85.73
+pet_shop,f8db351d8c4c4c22c6835c19a46f01b0,salto,SP,80,40.7,13.65,54.36
+pet_shop,"70c27847eca8195c983ed7e798c56743",rio de janeiro,RJ,77,123.24,14.81,138.05
+pet_shop,fa1a9dec3a9940c072684a46728bf1fc,icara,SC,55,111.23,20.03,131.26
+pet_shop,e067ad2c1c0b48758eb1b5228bcf7a68,santos,SP,54,82.66,16.48,99.15
+pet_shop,f789d2c4f2c2eb38fc4373e7a4b35264,juiz de fora,MG,43,100.19,17.39,117.58
+pet_shop,c013e57c075a06e5b5c48ee03c525719,sao carlos,SP,42,43.81,19.05,62.86
+pet_shop,"1336efc61c316ddf92c899eb817f7cae",assis,SP,36,72.46,17.87,90.33
+pet_shop,"718539d38d07dd351c76db862760e2e2",campinas,SP,35,27.75,14.3,42.04
+pet_shop,"232a6014e7b10cba61c6c2b2ea6bb4b0",cafelandia,SP,33,108.89,33.71,142.59
+pet_shop,"070d165398b553f3b4b851c216b8a358",sao paulo,SP,32,87.0,25.73,112.74
+pet_shop,"238fac594e170b59c6d228f5a4f4f1d9",dois corregos,SP,29,104.2,47.32,151.52
+pet_shop,"6061155addc1e54b4cfb51c1c2a32ad8",campinas,SP,24,368.05,20.02,388.07
+pet_shop,"729f06993dac8e860d4f02d7088ca48a",limeira,SP,24,148.79,24.11,172.9
+pet_shop,"3361277dc30b7cccdb0c286b24219756",maringa,PR,22,113.94,15.42,129.36
+pet_shop,f27e33c6d29b5138fa9967bcd445b6d5,sao paulo,SP,22,115.55,15.35,130.9
+pet_shop,"4e922959ae960d389249c378d1c939f5",jacarei,SP,21,123.62,20.07,143.69
+pet_shop,"834f8533b2ecb6598dd004ff3de7203a",sao paulo,SP,21,79.13,19.0,98.12
+relogios_presentes,"6560211a19b47992c3666cc44a7e94c0",sao paulo,SP,1469,61.99,13.88,75.87
+relogios_presentes,"4869f7a5dfa277a7dca6462dcf3b52b2",guariba,SP,981,200.67,17.42,218.09
+relogios_presentes,fa1c13f2614d7b5c4749cbc52fecda94,sumare,SP,579,331.77,17.2,348.97
+relogios_presentes,"7d13fca15225358621be4086e1eb0964",ribeirao preto,SP,496,177.39,14.24,191.63
+relogios_presentes,"7e93a43ef30c4f03f38b393420bc753a",barueri,SP,311,540.66,18.76,559.43
+relogios_presentes,"634964b17796e64304cadf1ad3050fb7",rio de janeiro,RJ,221,122.98,18.22,141.2
+relogios_presentes,"86ccac0b835037332a596a33b6949ee1",blumenau,SC,176,76.63,18.85,95.48
+relogios_presentes,b33e7c55446eabf8fe1a42d037ac7d6d,pradopolis,SP,130,273.25,17.19,290.45
+relogios_presentes,"2eb70248d66e0e3ef83659f71b244378",campinas,SP,116,216.99,15.95,232.94
+relogios_presentes,b1fc4f64df5a0e8b6913ab38803c57a9,sao goncalo,RJ,107,66.07,17.74,83.81
+relogios_presentes,"966cb4760537b1404caedd472cc610a5",diadema,SP,75,683.81,22.0,705.81
+relogios_presentes,"744dac408745240a2c2528fb1b6028f3",colombo,PR,72,259.72,22.79,282.51
+relogios_presentes,d921b68bf747894be13a97ae52b0f386,formiga,MG,67,208.21,23.09,231.3
+relogios_presentes,"056b4ada5bbc2c50cc7842547dda6b51",queimados,RJ,60,164.65,19.38,184.03
+relogios_presentes,d650b663c3b5f6fb392b6326366efa9a,cotia,SP,57,319.58,15.33,334.91
+relogios_presentes,"3d871de0142ce09b7081e2b9d1733cb1",campo limpo paulista,SP,54,25.52,16.19,41.72
+relogios_presentes,"8ae520247981aa06bc94abddf5f46d34",navegantes,SC,52,234.19,21.56,255.75
+relogios_presentes,c66dccfb3f109511246da627dd5a2498,registro,SP,44,282.24,21.68,303.92
+relogios_presentes,"381c83fdca332ea6afd896da20bf6e4a",curitiba,PR,43,163.18,21.72,184.9
+relogios_presentes,ececbfcff9804a2d6b40f589df8eef2b,franca,SP,32,63.06,17.29,80.35
+relogios_presentes,"93dc87703c046b603023e75222018b45",belo horizonte,MG,31,241.69,17.48,259.17
+relogios_presentes,c60b801f2d52c7f7f91de00870882a75,guarulhos,SP,31,354.09,18.81,372.9
+relogios_presentes,"58f1a6197ed863543e0136bdedb3fce2",conselheiro lafaiete,MG,30,134.43,19.57,154.01
+relogios_presentes,"2bf6a2c1e71bbd29a4ad64e6d3c3629f",nova friburgo,RJ,29,1625.96,31.74,1657.71
+relogios_presentes,"715bbd5ba4e6b74cb0d2f29eb45058b0",serra negra,SP,26,45.14,16.56,61.7
+relogios_presentes,"612170e34b97004b3ba37eae81836b4c",novo hamburgo,RS,25,187.63,20.18,207.81
+relogios_presentes,f8db351d8c4c4c22c6835c19a46f01b0,salto,SP,25,140.67,16.68,157.34
+relogios_presentes,"522620dcb18a6b31cd7bdf73665113a9",cascavel,PR,21,267.61,24.27,291.88
+tablets_impressao_imagem,"0db783cfcd3b73998abc6e10e59a102f",santos,SP,50,94.22,14.79,109.01
+telefonia,ea8482cd71df3c1969d7b9473ff13abc,sao paulo,SP,1123,31.02,14.65,45.67
+telefonia,"2138ccb85b11a4ec1e37afbd1c8eda1f",sao paulo,SP,340,26.88,14.08,40.96
+telefonia,"92eb0f42c21942b6552362b9b114707d",sao paulo,SP,323,18.34,13.87,32.22
+telefonia,ef506c96320abeedfb894c34db06f478,sao paulo,SP,300,28.54,15.27,43.82
+telefonia,"562fc2f2c2863ab7e79a9e4388a58a14",campinas,SP,260,32.65,15.94,48.59
+telefonia,"53243585a1d6dc2643021fd1853d8905",lauro de freitas,BA,212,217.53,23.18,240.7
+telefonia,"7d76b645482be4a332374e8223836592",sao paulo,SP,173,20.55,13.91,34.46
+telefonia,db4350fd57ae30082dec7acbaacc17f9,sao paulo,SP,120,20.42,14.47,34.89
+telefonia,b76dba6c951ab00dc4edf0a1aa88037e,sao paulo,SP,115,15.21,14.01,29.22
+telefonia,"70a12e78e608ac31179aea7f8422044b",jacarei,SP,67,80.0,16.79,96.79
+telefonia,"0db783cfcd3b73998abc6e10e59a102f",santos,SP,57,49.06,14.41,63.47
+telefonia,"75d34ebb1bd0bd7dde40dd507b8169c3",salvador,BA,57,220.21,19.58,239.8
+telefonia,"8d956fec2e4337affcb520f56fd8cbfd",sao bernardo do campo,SP,47,48.71,15.16,63.87
+telefonia,"6c177e38df6d3f34182b1f1d427231bf",curitiba,PR,46,150.0,19.03,169.03
+telefonia,"7202e2ba20579a9bd1acb29e61fe71f6",franca,SP,46,239.82,19.57,259.39
+telefonia,"4e922959ae960d389249c378d1c939f5",jacarei,SP,44,102.54,14.93,117.46
+telefonia,"99eaacc9e6046db1c82b163c5f84869f",franca,SP,43,201.1,16.5,217.6
+telefonia,c9c7905cffc4ef9ff9f113554423e671,itapecerica da serra,SP,42,56.55,14.36,70.91
+telefonia,"6f892e20a171e98efe17fdb971ff319b",sao paulo,SP,41,120.78,17.38,138.16
+telefonia,"7040e82f899a04d1b434b795a43b4617",sao paulo,SP,41,28.9,13.34,42.24
+telefonia,"1b4c3a6f53068f0b6944d2d005c9fc89",sao ludgero,SC,32,60.6,20.32,80.92
+telefonia,"18a349e75d307f4b4cc646a691ed4216",sao paulo,SP,28,25.32,13.28,38.6
+telefonia,"0afccdb8a34ee5c79f7c06faf2b4d56e",uberlandia,MG,25,49.02,15.53,64.55
+telefonia,"5656537e588803a555b8eb41f07a944b",brasilia,DF,25,45.13,17.47,62.6
+telefonia,"240b9776d844d37535668549a396af32",niteroi,RJ,24,499.28,21.02,520.3
+telefonia,"1ca7077d890b907f89be8c954a02686a",santana de parnaiba,SP,23,38.75,13.68,52.43
+telefonia,"850913d59ce317156b00f3705f1c3edb",atibaia,SP,23,66.75,14.52,81.27
+telefonia,cd68562d3f44870c08922d380acae552,ribeirao preto,SP,21,49.18,15.64,64.82
+telefonia_fixa,b76dba6c951ab00dc4edf0a1aa88037e,sao paulo,SP,40,15.14,13.17,28.31
+telefonia_fixa,"2138ccb85b11a4ec1e37afbd1c8eda1f",sao paulo,SP,35,28.67,15.1,43.76
+utilidades_domesticas,"53e4c6e0f4312d4d2107a8c9cddf45cd",pedreira,SP,433,57.08,18.09,75.17
+utilidades_domesticas,"955fee9216a65b617aa5c0531780ce60",sao paulo,SP,180,127.45,19.31,146.77
+utilidades_domesticas,"813348c996469b40f2e028d5429d3495",jundiai,SP,179,55.47,17.8,73.27
+utilidades_domesticas,f8db351d8c4c4c22c6835c19a46f01b0,salto,SP,172,48.11,13.74,61.85
+utilidades_domesticas,"4830e40640734fc1c52cd21127c341d4",sao paulo,SP,117,41.56,14.33,55.9
+utilidades_domesticas,"8e6cc767478edae941d9bd9eb778d77a",araguari,MG,105,60.38,20.06,80.45
+utilidades_domesticas,febab0275244b9a49a623f0bd613ca2f,pedreira,SP,103,58.0,23.87,81.87
+utilidades_domesticas,d94a40fd42351c259927028d163af842,baependi,MG,98,127.6,30.88,158.48
+utilidades_domesticas,"7722b1df1b0e383e000397b2c11e3e19",sao bernardo do campo,SP,91,49.45,14.63,64.08
+utilidades_domesticas,"98dac6635aee4995d501a3972e047414",sao paulo,SP,91,21.72,12.51,34.23
+utilidades_domesticas,"0adac9fbd9a2b63cccaac4f8756c1ca8",louveira,SP,89,69.71,15.47,85.18
+utilidades_domesticas,"59b22a78efb79a4797979612b885db36",uberlandia,MG,84,168.97,35.24,204.21
+utilidades_domesticas,"0bae85eb84b9fb3bd773911e89288d54",itajai,SP,76,58.86,20.08,78.94
+utilidades_domesticas,"688756f717c462a206ad854c5027a64a",guarulhos,SP,75,62.21,19.22,81.43
+utilidades_domesticas,"7299e27ed73d2ad986de7f7c77d919fa",araguari,MG,73,20.89,15.26,36.15
+utilidades_domesticas,"729f06993dac8e860d4f02d7088ca48a",limeira,SP,72,187.13,49.36,236.49
+utilidades_domesticas,ce7d1888639e6fb06b2749cbfdac1ff7,baependi,MG,70,141.37,34.8,176.17
+utilidades_domesticas,"9de4643a8dbde634fe55621059d92273",joinville,SC,69,233.71,21.81,255.52
+utilidades_domesticas,ca3bd7cd9f149df75950150d010fe4a2,sao paulo,SP,69,67.92,22.97,90.89
+utilidades_domesticas,b6d44737c043328708f6749c2dbe50bd,santo andre,SP,62,67.12,19.57,86.69
+utilidades_domesticas,"06579cb253ecd5a3a12a9e6eb6bf8f47",sao paulo - sp,SP,59,64.72,18.38,83.1
+utilidades_domesticas,"1b4c3a6f53068f0b6944d2d005c9fc89",sao ludgero,SC,58,161.99,29.74,191.72
+utilidades_domesticas,"3be634553519fb6536a03e1358e9fdc7",sao paulo,SP,56,63.7,20.62,84.32
+utilidades_domesticas,"4c18691b6037662be2df78a765d98ab5",sao paulo,SP,55,50.14,17.07,67.21
+utilidades_domesticas,"6edacfd9f9074789dad6d62ba7950b9c",guarulhos,SP,54,51.48,13.29,64.77
+utilidades_domesticas,cc63f0dd2acba93ffed4fe9f8e0321fa,sao jose do rio preto,SP,54,111.75,22.27,134.02
+utilidades_domesticas,"0dd184061fb0eaa7ca37932c68ab91c5",guarulhos,SP,53,107.01,23.12,130.14
+utilidades_domesticas,"4992e76a42cb3aad7a7047e0d3d7e729",sao paulo,SP,52,30.01,13.45,43.46
+utilidades_domesticas,"91f848e9f4be368f4318775aac733370",sao paulo,SP,52,88.91,17.71,106.63
+utilidades_domesticas,aced59e9b31ef866a94f9e7f29d8d418,sao paulo,SP,52,113.08,15.65,128.73
+utilidades_domesticas,e26901d5ab434ce92fd9b5c256820a4e,maua,SP,48,62.44,14.35,76.79
+utilidades_domesticas,e333046ce6517bd8bb510291d44f0130,ipaussu,SP,48,80.19,19.67,99.86
+utilidades_domesticas,fffd5413c0700ac820c7069d66d98c89,amparo,SP,47,140.89,47.95,188.84
+utilidades_domesticas,"994f04b3718c2bab35c2adfa8afecd2a",jaguariuna,SP,46,60.78,13.57,74.35
+utilidades_domesticas,b8bc237ba3788b23da09c0f1f3a3288c,itajai,SC,45,291.19,41.18,332.37
+utilidades_domesticas,b410bdd36d5db7a65dcd42b7ead933b8,goiania,GO,44,175.61,22.88,198.49
+utilidades_domesticas,e5a38146df062edaf55c38afa99e42dc,sao paulo,SP,44,90.39,12.62,103.01
+utilidades_domesticas,"33a17d60c64393351ebf1ef860f4e0f2",porto alegre,RS,43,173.46,27.22,200.68
+utilidades_domesticas,"95e03ca3d4146e4011985981aeb959b9",rio de janeiro,RJ,42,54.79,16.0,70.78
+utilidades_domesticas,"99a54764c341d5dc80b4a8fac4eba3fb",sao paulo,SP,41,52.91,20.01,72.92
+utilidades_domesticas,cd06602b43d8800bd0afad514919d35c,sao paulo,SP,41,33.79,13.6,47.39
+utilidades_domesticas,dbb9b48c841a0e39e21f98e1a6b2ec3e,sao paulo,SP,40,48.95,12.89,61.84
+utilidades_domesticas,e63e8bfa530fb16910dd6956e592bb81,guarulhos,SP,39,30.55,14.99,45.54
+utilidades_domesticas,a2e874074c877c5a05abae80ad6e488f,sao jose do rio preto,SP,37,170.91,25.78,196.69
+utilidades_domesticas,"2ff97219cb8622eaf3cd89b7d9c09824",salto,SP,36,47.91,13.58,61.5
+utilidades_domesticas,"32b8764b4ef628b53608fc34011fcc13",lages,SC,36,233.79,78.17,311.96
+utilidades_domesticas,dfa0c4c6229ab200a4a1336b4d7128ff,florianopolis,SC,36,51.3,20.3,71.6
+utilidades_domesticas,"65febd49fd28ec955651299159b1f527",sao paulo,SP,35,107.99,24.54,132.53
+utilidades_domesticas,"835f0f7810c76831d6c7d24c7a646d4d",sao paulo,SP,35,104.64,20.81,125.45
+utilidades_domesticas,"7040e82f899a04d1b434b795a43b4617",sao paulo,SP,32,96.41,18.91,115.32
+utilidades_domesticas,c68fb906c8f4b4b946d8386bfa6e5467,jaboticabal,SP,30,79.17,18.26,97.43
+utilidades_domesticas,"3ab971ce71839580d2ae5b4e40fe8044",sao paulo,SP,29,135.96,23.59,159.55
+utilidades_domesticas,"8b28d096634035667e8263d57ba3368c",sao jose dos campos,SP,28,42.26,16.96,59.23
+utilidades_domesticas,"671585f5a2af58b6e276bc01003c0d2b",curitiba,PR,27,46.07,16.6,62.67
+utilidades_domesticas,"7a241947449cc45dbfda4f9d0798d9d0",jacutinga,MG,27,103.64,32.28,135.92
+utilidades_domesticas,cc5a78bbad32776dc4e3af205218368c,divinopolis,MG,27,84.52,35.33,119.85
+utilidades_domesticas,"4bfc7a4a1cf8d4d2121c27422d9e50b5",sao paulo,SP,26,203.11,26.68,229.79
+utilidades_domesticas,"520b493b57809f446cb0a233bb3e25c7",santos,SP,26,48.9,14.56,63.46
+utilidades_domesticas,"5b179e9e8cc7ab6fd113a46ca584da81",sao paulo,SP,26,136.69,16.99,153.68
+utilidades_domesticas,"9f505651f4a6abe901a56cdc21508025",sao paulo,SP,26,46.46,12.05,58.52
+utilidades_domesticas,ed4311e67debd72b8610a5347a743087,guarulhos,SP,25,139.85,27.18,167.03
+utilidades_domesticas,"17ca9b9e9b9ef8fdb529001b49ebb50f",betim,MG,24,119.62,17.85,137.47
+utilidades_domesticas,f76a3b1349b6df1ee875d1f3fa4340f0,sao paulo,SP,24,173.37,24.51,197.87
+utilidades_domesticas,f0b47fbbc6dee9aafe415a6e33051b3f,maua,SP,23,41.21,16.56,57.77
+utilidades_domesticas,"0be8ff43f22e456b4e0371b2245e4d01",sao paulo,SP,22,48.3,14.84,63.15
+utilidades_domesticas,"57c764b4a836300be881e2ff86e449f9",ribeirao preto,SP,22,19.42,16.08,35.5
+utilidades_domesticas,f0837c8d71434931d9e38e7b79234797,arvorezinha,RS,22,149.87,26.19,176.06
+utilidades_domesticas,"3785b653b1b82de85ab47dd139938091",ampere,PR,21,64.67,20.05,84.72
+utilidades_domesticas,"7dc8c42cc750eeafea6c85712ffee9bf",sao paulo,SP,21,137.63,24.65,162.28
