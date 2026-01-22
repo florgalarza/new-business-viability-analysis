@@ -2,11 +2,11 @@
 
 ## El Ejercicio
 
-Hace poco me hice la siguiente pregunta: **¿Si una empresa de retail quisiera entrar a nuevas categorías de productos en Brasil, en cuáles debería enfocarse?**
+Para este ejercicio me hice la siguiente pregunta: **¿Si una empresa de retail quisiera entrar a nuevas categorías de productos en Brasil, en cuáles debería enfocarse?**
 
 Para responderla, usé un dataset público de Olist (2016-2018). No es una recomendación actual - es un ejercicio de análisis donde aplico pensamiento de negocio a datos reales. El objetivo es demostrar cómo abordaría decisiones de entrada a mercado, análisis de competencia y evaluación de oportunidades.
 
-El hallazgo principal fue que la mejor oportunidad no está donde hay más ventas, sino donde hay demanda comprobada pero pocos competidores.
+El hallazgo principal fue que **la mejor oportunidad** no está donde hay más ventas, sino **donde hay demanda comprobada pero pocos competidores**.
 
 ## Los Datos
 
@@ -32,13 +32,13 @@ La idea: ¿Está el mercado concentrado en pocos jugadores o distribuido entre m
 
 *Cómo se calcula:* Órdenes por Proveedor = Total de Órdenes en la Categoría / Número de Proveedores
 
-*IMPORTANTE:* Este es un promedio. Puede esconder distribuciones raras. Un proveedor gigante + 400 pequeños darían un promedio engañoso. Por eso lo complementé analizando también quiénes son los top proveedores y cómo está distribuida la demanda real.
+*ACLARACIÓN:* Este es un promedio y puede contener distribuciones atípicas. Por ejemplo, un proveedor gigante + 400 pequeños darían un promedio engañoso. Por eso lo complementé analizando también quiénes son los top proveedores y cómo está distribuida la demanda real.
+
 **Ejemplo:**
 - Belleza & Salud: 8,836 órdenes ÷ 492 proveedores = **17.96 órdenes/proveedor**
 - Relojes y Presentes: 5,624 órdenes ÷ 101 proveedores = **55.68 órdenes/proveedor**
 
-*Interpretación:* 
-Con 17.96 órdenes/proveedor, Belleza está fragmentada. Muchos jugadores peleando por poco. Con 55.68, hay más demanda por proveedor - menos fragmentación, más oportunidad de ganar participación sin competencia tan intensa.
+*Interpretación:* Con un promedio de 17,96 órdenes por proveedor, la categoría Belleza presenta un alto nivel de fragmentación, con muchos actores compitiendo por un volumen reducido de demanda. En contraste, con 55,68 órdenes por proveedor, tiene una mayor demanda concentrada por proveedor, lo que implica menor fragmentación y una mayor oportunidad de capturar participación sin enfrentar una competencia tan intensa.
 
 ### 2. Demanda Real - Volumen Absoluto de Transacciones
 
@@ -46,45 +46,39 @@ La idea: ¿Existe demanda comprobada? No basta saber si hay pocos competidores -
 
 *Cómo se calcula:* Total de Órdenes por Categoría (conteo directo del dataset)
 
-
 **Ejemplo:**
 - Belleza & Salud: 8,836 órdenes (mucha demanda)
 - Alimentos: 450 órdenes (poca demanda)
 - Flores: 29 órdenes (muy poca demanda)
 
-*Interpretación:* 
-8,836 vs 450 es casi 20x de diferencia. Belleza tiene demanda comprobada a escala. Alimentos existe pero es nicho. Flores es muy pequeño. El volumen importa porque necesitas suficiente demanda para sustentar un negocio.
+*Interpretación:* 8,836 vs 450 es casi 20x de diferencia. Belleza tiene demanda comprobada a escala mientas que Alimentos existe pero es nicho, y  Flores es muy pequeño. El volumen importa porque necesitas suficiente demanda para sustentar un negocio.
 
 ### 3. Rentabilidad - Margen Después de Logística
 
-La idea: ¿Cuánto dinero queda después de pagar envíos? El margen bruto no importa si luego gastas todo en logística.
+La idea: ¿Cuánto dinero queda después de pagar envíos? El margen bruto pierde relevancia si los costos logísticos absorben gran parte de la rentabilidad.
 
-*Cómo se calcula:* 
-Margen Neto = Precio Promedio - Costo Logística Promedio
-Margen % = (Margen Neto / Precio Promedio) × 100
+*Cómo se calcula:*  Margen Neto = Precio Promedio - Costo Logística Promedio
+                  Margen % = (Margen Neto / Precio Promedio) × 100
 
 **Ejemplo:**
 - PCs: Precio $1,098 - Logística $48 = **Margen neto $1,050 = 95.59%**
 - Relojes: Precio $201 - Logística $17 = **Margen neto $184 = 91.66%**
 - Flores: Precio $34 - Logística $15 = **Margen neto $19 = 55.96%**
 
-*Interpretación:* 
-PCs tienen margen excelente (95%). Flores muy bajo (56%). Esto es crítico porque si descubrís que tienes 200 competidores en Flores, ese 56% se come en guerra de precios y quedás sin negocio. El margen solo es viable si el mercado no te obliga a bajar precio.
+*Interpretación:* La categoría PCs presenta un margen bruto elevado (95%), mientras que Flores muestra un margen considerablemente menor (56%). Esta diferencia es relevante desde una perspectiva competitiva: en un escenario con numerosos competidores, como el de Flores, la competencia vía precio termina erosionando ese margen, dejando poco espacio para la rentabilidad. Por lo tanto, el margen solo resulta sostenible cuando la dinámica competitiva del mercado es limitada en términos de presión sobre precios.
 
 ### 4. Logística - Velocidad de Entrega
 
-La idea: ¿Podes cumplir con las expectativas operativas del mercado? Si el promedio es 5 días pero tú tardás 20, los clientes te dejan malas reseñas antes de empezar.
+La idea: ¿Podes cumplir con las expectativas operativas del mercado? Si el promedio es 5 días pero tardás 20, los clientes te dejan malas reseñas antes de empezar.
 
 *Cómo se calcula:* Días Promedio de Entrega = Promedio de (Fecha de Entrega Real - Fecha del Pedido)
-
 
 **Ejemplo:**
 - Artes y Artesanía: 5.0 días promedio
 - Relojes y Presentes: 12.2 días promedio
 - Muebles de Oficina: 20.2 días promedio
 
-*Interpretación:* 
-5 vs 20 días es una diferencia operativa GRANDE. Si entras a una categoría donde el cliente espera 5 días y tu logística tarda 20, estás fuera de competencia antes de competir. Esto limita quién puede jugar en cada mercado.
+*Interpretación:* 5 vs 20 días es una diferencia operativa GRANDE. Si entras a una categoría donde el cliente espera 5 días y tu logística tarda 20, estás fuera de competencia antes de competir. Esto limita quién puede jugar en cada mercado.
 
 ### 5. Score de Viabilidad - La Métrica Compuesta
 
@@ -110,9 +104,9 @@ Aunque Belleza tiene margen similar y más demanda, el score es mucho más bajo.
 
 ### Dónde NO Entrar
 
-**Belleza & Salud** parece atractiva de lejos: 8,836 órdenes, margen 85.5%. Pero hay 492 proveedores. Eso es 17.96 órdenes por proveedor. Muy poco para tanta competencia. Es un mercado maduro donde ya hay winners establecidos.
+**Belleza & Salud** parece atractiva de lejos: 8,836 órdenes, margen 85.5%. Pero hay 492 proveedores. Eso es 17.96 órdenes por proveedor. Muy poco para tanta competencia. Es un mercado maduro donde ya hay ganadores establecidos.
 
-**Deporte & Ocio** similar: 481 proveedores, margen decente pero pocas órdenes por proveedor. Mercado consolidado.
+**Deporte & Ocio** similar: 481 proveedores, margen decente pero pocas órdenes por proveedor. Es un mercado consolidado.
 
 **Utilidades Domésticas** está saturada (468 proveedores, score 52). No lo recomendaría
 
@@ -120,15 +114,11 @@ Aunque Belleza tiene margen similar y más demanda, el score es mucho más bajo.
 
 La lógica es simple: en retail/CPG, **la saturación de mercado es más riesgosa que un margen bajo**.
 
-Un margen del 80% en un mercado con 1 proveedor es mejor negocio que un margen del 85% compitiendo contra 492 proveedores. En el segundo caso, la guerra de precios termina comiendo tu margen de todas formas.
+Un margen del 80% en un mercado con baja competencia puede resultar más sostenible que un margen del 85% en un mercado con 492 proveedores, donde la competencia en precios reduce de forma significativa la rentabilidad real.
 
 ## Validación de la Metodología vs Limitaciones de Scope
 
 **Este análisis valida una METODOLOGÍA y un CONCEPTO. No pretende ser la respuesta final.**
-
-## Validación de la Metodología vs Limitaciones de Scope
-
-Este análisis valida una metodología y un concepto. No pretende ser la respuesta final.
 
 Cualquier decisión de negocio se construye en capas. Este proyecto completa la primera:
 
@@ -142,21 +132,21 @@ Respuesta: Validado. Con datos históricos, la metodología produce insights cla
 
 ¿Sigue siendo válida en 2024? Los datos son de 2016-2018. El mercado cambió. 
 
-Respuesta: No cubierto. Necesitaría datos actuales de Olist u otros marketplaces brasileños.
+Respuesta: No, se necesitan datos actuales de Olist u otros marketplaces brasileños para responder esta pregunta.
 
 **Capa 3 - ¿Quiénes son realmente los competidores?**
 
 ¿Cómo entramos específicamente? ¿Cuáles son las barreras reales?
 
-Respuesta: No cubierto. No hice análisis competitivo detallado, no miré reseñas de proveedores ni tasas de devolución.
+Respuesta: Este proyecto no se enfoca en un análisis competitivo detallado, donde se tiene en cuenta reseñas de proveedores o tasas de devolución.
 
 **Capa 4 - ¿Validación de cliente?**
 
 ¿El mercado efectivamente quiere esto?
 
-Respuesta: No cubierto. Requeriría research primaria con clientes reales.
+Respuesta: Para responder esta pregunta se requiere research primaria con clientes reales.
 
-**Por qué esto importa:** No tiene sentido invertir recursos en Capas 3 y 4 si Capa 1 ya falla. Este análisis prueba que Capa 1 es viable. Eso significa que la siguiente persona (o yo mismo) puede confiar en que invertir en Capas 2-4 tiene sentido, en lugar de perseguir una idea que matemáticamente no funciona desde el inicio.
+**Por qué esto importa:** No tiene sentido invertir recursos en Capas 3 y 4 si Capa 1 ya falla. Este análisis prueba que Capa 1 es viable. 
 
 La metodología es sólida. Los datos son históricos pero reales. Eso es suficiente para validar el concepto.
 
@@ -171,10 +161,10 @@ La metodología es sólida. Los datos son históricos pero reales. Eso es sufici
 
 Este proyecto nació de una pregunta de negocio real. Muchos análisis de datos producen números bonitos pero olvidan lo importante: **convertir esos números en una recomendación clara**.
 
-Es fácil mostrar 492 competidores, 85% de margen, 8,836 órdenes y decir "aquí están los datos." Más difícil es decir "con esos datos, mi recomendación es: NO entres aquí porque está saturado."
+Es fácil mostrar 492 competidores, 85% de margen, 8,836 órdenes y decir "acá están los datos." Más difícil es decir "con esos datos, mi recomendación es: NO entres acá porque está saturado."
 
 Este análisis intenta hacer eso: empezar con una decisión ("¿dónde expando?"), analizar datos para responderla, y terminar con conclusiones claras ("entra en Relojes, no entres en Belleza").
 
-¿Es perfecto? No. ¿Responde la pregunta? Sí.
+¿Es perfecto? No. ¿Responde a la pregunta? Sí.
 
 
