@@ -1,6 +1,6 @@
--- 6) Velocidad de entrega por categoria
--- Analizar velocidad promedio de entrega (dias entre aprobacion y entrega)
-
+-- 6) VELOCIDAD DE ENTREGA POR CATEGORÍA
+-- Propósito: Analizar barrera operativa (velocidad de entrega por categoría)
+-- Nota: Cada categoría tiene estándar implícito; incumplirlo = fuera de competencia
 
 SELECT 
   p.product_category_name,

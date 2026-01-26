@@ -1,4 +1,4 @@
--- 8) SCORE DE VIABILIDAD COMPLETO
+-- 11) SCORE DE VIABILIDAD COMPLETO
 -- Propósito: Integrar todas las dimensiones en una métrica única
 -- Responde: ¿En qué categorías debería entrar? (respuesta final)
 

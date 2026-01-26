@@ -1,0 +1,4 @@
+"escenario","ordenes_mes","costo_logistica_promedio","costo_logistica_total_mes"
+Escenario 300 órdenes/mes,300,16.78,5034.35
+Escenario 500 órdenes/mes,500,16.78,8390.58
+Escenario 1000 órdenes/mes,1000,16.78,16781.16

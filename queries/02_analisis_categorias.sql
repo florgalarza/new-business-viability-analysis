@@ -1,5 +1,7 @@
--- 2) Analisis de proveedores por categoria
--- Identificar cuales categorías tienen más proveedores y cual es su calidad promedio
+-- 2) ANÁLISIS DE PROVEEDORES POR CATEGORÍA
+-- Propósito: Identificar fragmentación por categoría (promedio de órdenes/proveedor)
+-- Nota: Se complementa con Query 2.5 (top-N) para validar que promedios no oculten distribuciones asimétricas
+
 SELECT 
   p.product_category_name,
   COUNT(DISTINCT oi.seller_id) as cantidad_proveedores,

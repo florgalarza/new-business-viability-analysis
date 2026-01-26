@@ -1,5 +1,6 @@
--- 5) Analisis de margen por categoria
--- Calcular margen de ganancia (precio - costo logística = margen neto)
+-- 5) ANÁLISIS DE MARGEN POR CATEGORÍA
+-- Propósito: Calcular margen neto (precio - logística) por categoría
+-- Muestra: rentabilidad real después de cumplir promesa logística
 
 SELECT 
   p.product_category_name,

@@ -1,0 +1,5 @@
+"rango_precio","ordenes","precio_promedio","rating_promedio","dias_entrega_promedio"
+Bajo (<$100),1584,56.2,3.93,9.9
+Medio ($100-200),1640,146.65,4.02,13.6
+Alto ($200-300),570,240.94,4.0,14.5
+Premium (>$300),664,669.96,4.14,12.7
