@@ -1,2 +1,5 @@
 ecommerce.db
 .DS_Store
+*.csv
+ecommerce.db
+.DS_Store
